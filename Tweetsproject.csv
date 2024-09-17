@@ -1,0 +1,740 @@
+tweet_id,airline_sentiment,airline_sentiment_confidence,negativereason,negativereason_confidence,airline,airline_sentiment_gold,name,negativereason_gold,retweet_count,text,tweet_coord,tweet_created,tweet_location,user_timezone
+1.00E+00,neutral,1,,,Virgin America,,cairdin,,0,@VirginAmerica What @dhepburn said.,,2/24/2015 11:35,,Eastern Time (US & Canada)
+2.00E+00,positive,0.3486,,0,Virgin America,,jnardino,,0,@VirginAmerica plus you've added commercials to the experience... tacky.,,2/24/2015 11:15,,Pacific Time (US & Canada)
+3.00E+00,neutral,0.634,,,Virgin America,,pilot,,0,"@VirginAmerica Really missed a prime opportunity for Men Without Hats parody, there. https://t.co/mWpG7grEZP",,2/24/2015 11:12,Los Angeles,Pacific Time (US & Canada)
+4.00E+00,neutral,0.6769,,0,Virgin America,,idk_but_youtube,,0,@VirginAmerica did you know that suicide is the second leading cause of death among teens 10-24,,2/24/2015 10:48,1/1 loner squad,Eastern Time (US & Canada)
+5.00E+00,positive,0.6451,,,Virgin America,,mollanderson,,0,@VirginAmerica @virginmedia I'm flying your #fabulous #Seductive skies again! U take all the #stress away from travel http://t.co/ahlXHhKiyn,,2/24/2015 10:21,,Eastern Time (US & Canada)
+6.00E+00,negative,0.6842,Late Flight,0.3684,Virgin America,,smartwatermelon,,0,@VirginAmerica SFO-PDX schedule is still MIA.,,2/24/2015 10:01,"palo alto, ca",Pacific Time (US & Canada)
+7.00E+00,negative,0.6705,Can't Tell,0.3614,Virgin America,,MISSGJ,,0,@VirginAmerica why are your first fares in May over three times more than other carriers when all seats are available to select???,,2/24/2015 8:55,,
+8.00E+00,neutral,0.6854,,,Virgin America,,AdamSinger,,0,@VirginAmerica do you miss me? Don't worry we'll be together very soon.,,2/24/2015 5:44,"San Francisco, CA",Central Time (US & Canada)
+9.00E+00,neutral,0.615,,0,Virgin America,,TenantsUpstairs,,0,@VirginAmerica LAX to EWR - Middle seat on a red eye. Such a noob maneuver. #sendambien #andchexmix,"[33.94540417, -118.4062472]",2/23/2015 23:34,Brooklyn,Atlantic Time (Canada)
+1.00E+01,neutral,0.6207,,,Virgin America,,miaerolinea,,0,Nice RT @VirginAmerica: Vibe with the moodlight from takeoff to touchdown. #MoodlitMonday #ScienceBehindTheExperience http://t.co/Y7O0uNxTQP,,2/23/2015 18:46,Worldwide,Caracas
+1.10E+01,neutral,0.6791,,0,Virgin America,,elisha_malulani,,0,@VirginAmerica when can I book my flight to Hawaii??,,2/23/2015 17:54,i'm creating a monster ,Pacific Time (US & Canada)
+1.20E+01,positive,0.6639,,,Virgin America,,jamesferrandini,,0,"@VirginAmerica View of downtown Los Angeles, the Hollywood Sign, and beyond that rain in the mountains! http://t.co/Dw5nf0ibtr",,2/23/2015 17:32,,
+1.30E+01,negative,0.6688,Flight Booking Problems,0.6688,Virgin America,,will_lenzenjr,,0,"@VirginAmerica Hey, first time flyer next week - excited! But I'm having a hard time getting my flights added to my Elevate account. Help?",,2/23/2015 17:00,Iowa City,Central Time (US & Canada)
+1.40E+01,neutral,0.6578,,0,Virgin America,,KGervaise,,0,@VirginAmerica I have an unused ticket but moved to a new city where you don't fly. How can I fly with you before it expires? #travelhelp,,2/23/2015 16:20,Georgia,Pacific Time (US & Canada)
+1.50E+01,neutral,0.6799,,,Virgin America,,vacations7,,0,@VirginAmerica  DREAM http://t.co/oA2dRfAoQ2 http://t.co/lWWdAc2kHx,,2/23/2015 16:04,Turks and caicos,
+1.60E+01,neutral,0.6436,,,Virgin America,,lisaaiko,,0,@VirginAmerica @ladygaga @carrieunderwood All were entertaining,,2/23/2015 15:58,,
+1.70E+01,neutral,0.6764,,0,Virgin America,,grantbrowne,,0,"@VirginAmerica Is flight 769 on it's way? Was supposed to take off 30 minutes ago. Website still shows ""On Time"" not ""In Flight"". Thanks.",,2/23/2015 15:55,Worldwide,Central Time (US & Canada)
+1.80E+01,positive,0.657,,,Virgin America,,joyabsalon,,0,@VirginAmerica @ladygaga @carrieunderwood Julie Andrews all the way though @ladygaga was very impressive! NO to @Carrieunderwood,,2/23/2015 15:46,Northern Virginia,Eastern Time (US & Canada)
+1.90E+01,neutral,0.7118,,0,Virgin America,,KSmithFoundHere,,0,@VirginAmerica @ladygaga @carrieunderwood Julie Andrews. Hands down.,,2/23/2015 15:24,,Atlantic Time (Canada)
+2.00E+01,negative,0.6939,Flight Booking Problems,0.6939,Virgin America,,murphicus,,0,@VirginAmerica hi! i'm so excited about your $99 LGA-&gt;DAL deal- but i've been trying 2 book since last week &amp; the page never loads. thx!,,2/23/2015 15:05,"new york, new york",Eastern Time (US & Canada)
+2.10E+01,positive,0.635,,,Virgin America,,KevinDemsi,,0,@VirginAmerica @ladygaga @carrieunderwood  I'm Lady Gaga!!! She is amazing! 😊,,2/23/2015 14:40,"Bali, Republic of Indonesia",Kuala Lumpur
+2.20E+01,neutral,0.6858,,,Virgin America,,adawson66,,0,"@VirginAmerica @ladygaga @carrieunderwood all are great , but I have to go with #CarrieUnderwood 😍👌","[33.57963333, -117.73024772]",2/23/2015 14:30,,
+2.30E+01,neutral,0.6814,,0,Virgin America,,1stcrown,,0,@VirginAmerica Flight 0736 DAL to DCA 2/24 2:10pm. Tried to check in could not. Status please.,,2/23/2015 14:09,USA,Central Time (US & Canada)
+2.40E+01,positive,0.6922,,,Virgin America,,Travelzoo,,0,@VirginAmerica Congrats on winning the @Travelzoo award for Best Deals from an Airline (US) http://t.co/kj1iljaebV,,2/23/2015 13:30,"New York, NY",Pacific Time (US & Canada)
+2.50E+01,neutral,0.6492,,0,Virgin America,,seimatrun,,0,@VirginAmerica I emailed your customer service team. Let me know if you need the tracking number.,,2/23/2015 12:00,Los Angeles,
+2.60E+01,negative,0.6792,Late Flight,0.3477,Virgin America,,arieldaie,,0,@VirginAmerica you're the best!! Whenever I (begrudgingly) use any other airline I'm delayed and Late Flight :(,,2/23/2015 10:54,Los Angeles,
+2.70E+01,neutral,0.6545,,0,Virgin America,,cabowine,,0,@VirginAmerica I &lt;3 Flying VA But Life happens and I am trying to #change my trip JPERHI  Can you help.VA home page will not let me ?,,2/23/2015 10:04,"Los Cabos,Mexico",Arizona
+2.80E+01,neutral,0.6765,,0,Virgin America,,yazdanagh,,0,@VirginAmerica why is flight 345 redirected?,,2/23/2015 9:26,,
+2.90E+01,negative,0.6925,Late Flight,0.3521,Virgin America,,mrmichaellay,,0,@virginamerica how's a direct flight FLL-&gt;SFO have unexpected layover in Vegas 4 fuel yet peeps next to me bought for Vegas flight. #sneaky,"[0.0, 0.0]",2/23/2015 8:08,Floridian from Cincinnati ,Eastern Time (US & Canada)
+3.00E+01,neutral,0.6593,,0,Virgin America,,drcaseydrake,,0,@VirginAmerica I was scheduled for SFO 2 DAL flight 714 today. Changed to 24th due weather. Looks like flight still on?,"[37.79374402, -122.39327564]",2/23/2015 7:28,"Dallas, TX",
+3.10E+01,positive,0.6823,,0,Virgin America,,flyfromWAS,,0,"@VirginAmerica has getaway deals through May, from $59 one-way. Lots of cool cities http://t.co/tZZJhuIbCH #CheapFlights #FareCompare",,2/23/2015 6:57,"Washington, DC",Eastern Time (US & Canada)
+3.20E+01,positive,0.678,,,Virgin America,,Silvanabfer,,0,@VirginAmerica Have a great week 🌞✈,,2/23/2015 6:51,,
+3.30E+01,positive,0.3482,,0,Virgin America,,AdamJdubs,,0,@VirginAmerica come back to #PHL already. We need you to take us out of this horrible cold. #pleasecomeback http://t.co/gLXFwP6nQH,,2/23/2015 6:07,Earth,Eastern Time (US & Canada)
+3.40E+01,negative,0.6832,Customer Service Issue,0.3773,Virgin America,,usagibrian,,0,@VirginAmerica Use another browser! 2015 &amp; a brand with a reputation built on tech response doesn't have a cross-browser compatible website?,,2/22/2015 22:39,San Francisco CA,Pacific Time (US & Canada)
+3.50E+01,negative,0.6703,Customer Service Issue,0.6703,Virgin America,,ChrisFordisHere,,0,@VirginAmerica i need to change my flight thats scheduled in 9 hours and 120 min wait time on phone. Im calling intern. Help!!,"[51.04345575, -114.06071363]",2/22/2015 17:14,NYC,Tehran
+3.60E+01,neutral,0.6535,,0,Virgin America,,lawyang588,,0,@VirginAmerica is flight 882 Cancelled Flightled and what do I do if it is?,,2/22/2015 15:41,,
+3.70E+01,positive,0.7011,,,Virgin America,,HollywoodHotMom,,0,@VirginAmerica always!!! Xoxo,,2/22/2015 14:09,All Over!,Pacific Time (US & Canada)
+3.80E+01,negative,0.6543,Flight Attendant Complaints,0.3562,Virgin America,,MOCBlogger,,0,@VirginAmerica You'd think paying an extra $100 bucks RT for luggage might afford you hiring an extra hand at @sfo #lame,,2/22/2015 14:03,San Diego,Alaska
+3.90E+01,neutral,0.355,,0,Virgin America,,FiDiFamilies,,0,@VirginAmerica Can you find us a flt out of LAX that is sooner than midnight on Monday? That would be great customer service 😃,,2/22/2015 13:49,New York City ,Eastern Time (US & Canada)
+4.00E+01,negative,0.6889,Late Flight,0.6889,Virgin America,,jarrydosborne,,0,@VirginAmerica please provide status for flight 769.  I cant imagine it's on time as the Web indicates  dude to weather here and/or Dallas,,2/22/2015 13:47,New York,Eastern Time (US & Canada)
+4.10E+01,negative,0.679,Flight Booking Problems,0.3684,Virgin America,,Tyler_Starrine,,0,@VirginAmerica question: is it not possible to book a seat for an infant under 2? It's not giving me the option but we want a seat for him.,,2/22/2015 13:23,Los Angeles,Pacific Time (US & Canada)
+4.20E+01,neutral,0.6732,,0,Virgin America,,RheaThurman1,,0,"@VirginAmerica  - Is Flight 713 from Love Field to SFO definitely Cancelled Flightled for Monday, February 23?",,2/22/2015 11:10,,
+4.30E+01,negative,0.6517,Customer Service Issue,0.3371,Virgin America,,sbaaronson,,0,@VirginAmerica is the website down?,,2/22/2015 8:56,Los Angeles,
+4.40E+01,negative,0.68,Customer Service Issue,0.35,Virgin America,,jonesbasf,,0,@VirginAmerica - Your site seems a little wonked right now. May want to have a look. Tried on two browsers. No CSS? http://t.co/8qsQMM7KF2,,2/22/2015 8:53,,
+4.50E+01,neutral,0.6816,,0,Virgin America,,khartline,,0,@VirginAmerica I'd love to know what your policy is for damaged luggage.,,2/21/2015 20:41,Las Vegas,Pacific Time (US & Canada)
+4.60E+01,neutral,0.6701,,0,Virgin America,,TTINAC11,,0,@VirginAmerica @TTINAC11 I DM you,,2/21/2015 18:35,"Las Vegas, NV",Mountain Time (US & Canada)
+4.70E+01,neutral,0.6942,,0,Virgin America,,elaurawrr,,0,@VirginAmerica can you please have flights in  SJC ? I have no choice but to fly Southwest to Vegas 😩😭,,2/21/2015 18:29,,Arizona
+4.80E+01,neutral,0.653,,,Virgin America,,obiwantoby,,0,@VirginAmerica If only you guys had flights from CMH.,,2/21/2015 17:43,,Quito
+4.90E+01,neutral,0.6743,,0,Virgin America,,TheNotoriousLEX,,0,@VirginAmerica Having an issue finding a missing item on a plane. Can you help me find which airport my plane headed to next?,,2/21/2015 17:18,Chicago ,Central Time (US & Canada)
+5.00E+01,positive,0.6783,,,Virgin America,,advertisingdiva,,0,@VirginAmerica you will match my #AmericanAirlines status? Cool!,"[38.9128188, -77.00798226]",2/21/2015 17:15,DC - LA - Venice Beach,Eastern Time (US & Canada)
+5.10E+01,negative,0.7158,Cancelled Flight,0.7158,Virgin America,,Artenis15,,0,@VirginAmerica You have any flights flying into Boston tomorrow? I need to be home and you Cancelled Flightled my flight and didn't do anything,,2/21/2015 15:27,MA // Ashton in Wonderland,Eastern Time (US & Canada)
+5.20E+01,neutral,0.6809,,0,Virgin America,,carabubes,,0,@VirginAmerica nervous about my flight from DC to LAX getting Cancelled Flightled tomorrow! Just sent you a DM to help me!,,2/21/2015 14:23,"Los Angeles, California",Central Time (US & Canada)
+5.30E+01,positive,0.6775,,0,Virgin America,,rtw4,,0,@VirginAmerica Thanks for a great flight from LA to Boston! Pilots did a great job landing in the snow. Can we go back to LA now? #seriously,,2/21/2015 13:41,"Natick, MA, USA",Central Time (US & Canada)
+5.40E+01,negative,0.7053,Bad Flight,0.7053,Virgin America,,wmrrock,,0,@VirginAmerica seats in Row 8 don't recline should mention that on your website #soreback,,2/21/2015 13:30,CT,Eastern Time (US & Canada)
+5.50E+01,negative,0.642,Cancelled Flight,0.642,Virgin America,,BigRichTexasPam,,0,@VirginAmerica why Cancelled Flight flights today? No precipitation to be scared of!  ❄️❄️❄️,"[32.8437698, -96.84928399]",2/21/2015 13:18,FREE ADVICE! ,Central Time (US & Canada)
+5.60E+01,positive,0.6667,,0,Virgin America,,aaronkurlander,,0,@VirginAmerica twitter team. you guys killed it for rescheduling me asap. thank you!,,2/21/2015 13:00,"New York, NY",Eastern Time (US & Canada)
+5.70E+01,negative,0.699,Customer Service Issue,0.699,Virgin America,,floatingatoll,,0,"@VirginAmerica your mobile site is broken, shows 
+""{{header.elevateUser.numOfPointsAvailable || '0' | number}} Points"", won't let me checkin",,2/21/2015 12:44,"Silicon Valley, California",Pacific Time (US & Canada)
+5.80E+01,positive,0.6522,,,Virgin America,,carlos89178,,0,@VirginAmerica when are you putting some great deals from PDX to LAS or from LAS to PDX show me your love! http://t.co/enIQg0buzj,,2/21/2015 11:49,,
+5.90E+01,positive,0.7081,,,Virgin America,,stefanpinto,,0,@VirginAmerica Like http://t.co/VPqEm31XUQ,,2/21/2015 11:10,"Los Angeles, CA",Pacific Time (US & Canada)
+6.00E+01,negative,0.6455,Flight Booking Problems,0.3497,Virgin America,,josephschwegler,,0,@VirginAmerica Site down? #help,,2/21/2015 11:06,,Pacific Time (US & Canada)
+6.10E+01,positive,0.6575,,,Virgin America,,EleonoraKaras,,0,"@VirginAmerica, the only airline based in Silicon Valley! #disruption #FCmostinnovative #incubator  @FastCompany's http://t.co/wU3LbCNcr9",,2/21/2015 10:31,New York,
+6.20E+01,negative,0.6489,Late Flight,0.6489,Virgin America,,stephenasilverm,,0,@VirginAmerica What is the reason  for the delay of the departure of VX 413 from JFK this afternoon?,,2/21/2015 10:22,,
+6.30E+01,negative,0.6786,Cancelled Flight,0.6786,Virgin America,,mrl6626,,0,"@VirginAmerica is todays flight from Palm Springs, Ca to JFK in NY Cancelled Flightled?",,2/21/2015 10:15,,Arizona
+6.40E+01,negative,0.6473,Lost Luggage,0.3341,Virgin America,,RedSoxGirl1976,,0,"@VirginAmerica We're on flight 910 Vegas to Boston today, checked in online but our bag count didn't register. Can I fix that somehow?",,2/21/2015 9:10,Somewhere outside of Fenway,Eastern Time (US & Canada)
+6.50E+01,positive,0.6771,,,Virgin America,,InuAtah,,0,"@VirginAmerica classiq, luv Virgin America. Greetingz",,2/21/2015 9:03,Abuja,
+6.60E+01,negative,0.6636,Customer Service Issue,0.6636,Virgin America,,borknagar,,0,"@VirginAmerica Hi, I'm trying to do check-in but the website is not working. I tried 3 different browsers and the problem continues",,2/21/2015 8:59,chile,Santiago
+6.70E+01,negative,0.6706,Bad Flight,0.3514,Virgin America,,eatgregeat,,0,"@VirginAmerica - the passenger in 7D, Flt 338 that assaulted me shouldn't have flown. I trust he's banned. Crew filed report to @FAANews","[26.06726717, -80.14433663]",2/21/2015 2:36,,Eastern Time (US & Canada)
+6.80E+01,neutral,0.6598,,,Virgin America,,woawABQ,,0,"@VirginAmerica If you'd love to see more girls be inspired to become pilots, RT our free WOAW event March 2-8 at ABQ. http://t.co/rfXlV1kGDh",,2/20/2015 22:18,"Albuquerque, NM",
+6.90E+01,negative,0.6965,Bad Flight,0.3634,Virgin America,,stephanieslome,,0,@VirginAmerica #wtf I paid for direct flight on purpose not to have to stop for fuel exhausted frequent flier and nothing for inconvenience!,,2/20/2015 17:16,San Francisco,Pacific Time (US & Canada)
+7.00E+01,negative,0.6368,Can't Tell,0.6368,Virgin America,,miekd,,0,@VirginAmerica Already checked in so the page expired :X,,2/20/2015 16:23,San Francisco,Pacific Time (US & Canada)
+7.10E+01,positive,0.6855,,,Virgin America,,AlyssaJenS,,0,@VirginAmerica I see what you did there ;),,2/20/2015 16:02,"Bay Area, CA",Pacific Time (US & Canada)
+7.20E+01,neutral,0.6803,,,Virgin America,,Kevin_E_Park,,0,@VirginAmerica way to take advantage of #MayweatherPacquiao :),,2/20/2015 15:50,,Pacific Time (US & Canada)
+7.30E+01,positive,0.6776,,,Virgin America,,MaverickGamersX,,0,@VirginAmerica we have a hot female pilot! Sweet! DCA to SFO! :-),,2/20/2015 13:48,Follow/Retweet for giveaways!,
+7.40E+01,negative,0.6569,Customer Service Issue,0.6569,Virgin America,,SleeplessByte,,0,@VirginAmerica Is there anything going on with the website? I've been getting a lot of errors past 30 minutes.,"[0.0, 0.0]",2/20/2015 12:21,Rijswijk ♡ The Netherlands,Amsterdam
+7.50E+01,neutral,0.6773,,0,Virgin America,,AcronymBex,,0,@VirginAmerica I think i left something on the plane yesterday. who do i call...ah!,,2/20/2015 12:17,"NY, NY",Eastern Time (US & Canada)
+7.60E+01,neutral,0.6625,,0,Virgin America,,SocialMedia305,,0,@VirginAmerica weather delays &gt; next few weeks ;) #JFK #BOS #DCA,,2/20/2015 9:44,,Eastern Time (US & Canada)
+7.70E+01,negative,0.662,Flight Booking Problems,0.662,Virgin America,,chrisaguiar88,,0,@VirginAmerica The Flight Booking Problems section of your website seems to be broken on Chrome. Might wanna look into that.,,2/20/2015 8:36,Massachusetts,
+7.80E+01,positive,0.6884,,,Virgin America,,GabriellaDago,,0,"@VirginAmerica I mean. Probably inappropriate while on board.. But, it's on!",,2/20/2015 8:06,New York City,Eastern Time (US & Canada)
+7.90E+01,neutral,0.6354,,,Virgin America,,SoleXclusive415,,0,@VirginAmerica momma I made it! 😁😁😁,,2/19/2015 20:45,Bay Area,
+8.00E+01,neutral,0.6742,,0,Virgin America,,SSal,,0,@VirginAmerica help. I was On  Flight  27 from JKF tonight. seat 7C left portfolio. Need it back!!,,2/19/2015 20:33,"Dutchess County, NY",Eastern Time (US & Canada)
+8.10E+01,neutral,0.6461,,,Virgin America,,AQR415,,0,@VirginAmerica Debbie Baldwin gave a #rockstar performance of the safety demo this evening on VX919 #LAS2SFO #BestCrew #SheRocks,,2/19/2015 19:06,San Francisco,Pacific Time (US & Canada)
+8.20E+01,positive,0.6482,,,Virgin America,,SuuperG,,0,@VirginAmerica Thanks!,,2/19/2015 18:57,Wandering So-Cal-ian,Pacific Time (US & Canada)
+8.30E+01,negative,0.6381,Flight Booking Problems,0.3279,Virgin America,,zoelle,,0,"@VirginAmerica Just trying to book tickets to NYC and facing super fun broken styling. Don't worry, I'll keep trying :)",,2/19/2015 17:37,San Francisco,Pacific Time (US & Canada)
+8.40E+01,neutral,0.6673,,,Virgin America,,adavidson26,,0,@VirginAmerica is my new go to airline,,2/19/2015 16:46,Bay Area,Pacific Time (US & Canada)
+8.50E+01,positive,0.6875,,,Virgin America,,MNDNCH,,0,@VirginAmerica I was so glad it was mentioned. I took my first virgin flight a few years back and it was a transformative experience.,,2/19/2015 14:51,SD/LA/PS,Pacific Time (US & Canada)
+8.60E+01,negative,0.6539,Customer Service Issue,0.3461,Virgin America,,conorjrogers,,0,@VirginAmerica trying to check-in...but looks like your site is down?,,2/19/2015 14:25, DC | Jersey City,Eastern Time (US & Canada)
+8.70E+01,negative,0.6558,Late Flight,0.6558,Virgin America,,bonniecamp,,1,"@VirginAmerica spending my birthday night with you, DAL-DCA. Get me home!",,2/19/2015 14:06,,
+8.80E+01,negative,0.6596,Customer Service Issue,0.3617,Virgin America,,GaySkiWeek,,0,@VirginAmerica Sent a couple messages to the email you provided but to no avail. Will try again next year. Cheers.,,2/19/2015 13:45,"Telluride, CO",Central Time (US & Canada)
+8.90E+01,negative,0.3617,Flight Booking Problems,0.3617,Virgin America,,jamonholmgren,,0,@VirginAmerica It's fine. Already done with my purchase. But you should try it. Just go most of the way through then go back 3,,2/19/2015 13:18,"Vancouver, WA",Arizona
+9.00E+01,negative,0.7223,longlines,0.7223,Virgin America,,c_crubin,,0,"@VirginAmerica
+wjere is our luggage #so slow at lax",,2/19/2015 13:08,,London
+9.10E+01,negative,0.654,Flight Booking Problems,0.3438,Virgin America,,taygarrett,,0,"@VirginAmerica what happened to direct flights from SFO-FLL? Looking in May, only see connecting #help #dontdothistome",,2/19/2015 11:46,san francisco,Eastern Time (US & Canada)
+9.20E+01,neutral,0.6624,,0,Virgin America,,giannilee,,0,Bruh “@VirginAmerica: @giannilee Turn down for what. #VXSafetyDance”,,2/19/2015 10:53,VFILES DJ CHAMPION,Eastern Time (US & Canada)
+9.30E+01,positive,0.6548,,,Virgin America,,_kristenicole_,,0,@VirginAmerica ok! first time flying with you tonight :),,2/19/2015 10:33,☂ Seattle | WA,Eastern Time (US & Canada)
+9.40E+01,neutral,0.6696,,,Virgin America,,CuteMonsterDad,,0,@virginamerica Digging the swanky pink mood lighting during the flight from NYC to SFO.  Just needs a cabaret singer.  Think about it!,,2/19/2015 10:25,3rd Planet from the Sun,Central Time (US & Canada)
+9.50E+01,negative,0.6756,Can't Tell,0.6756,Virgin America,,danteusa1,,0,"@VirginAmerica I have 2d and 3d embossed badges and patches superior to the ones you are currently using. 
+http://t.co/3fq3XElbOn",,2/19/2015 9:59,,
+9.60E+01,positive,0.6888,,,Virgin America,,mightymeesh,,0,@VirginAmerica got it squared away. Someone picked up as soon as I tweeted. Should have tweeted sooner. 😉,,2/19/2015 9:22,San Francisco,
+9.70E+01,positive,0.6395,,,Virgin America,,EricLMitchell,,0,@VirginAmerica  Flight Booking Problems last second flight for next week from SFO- to SAN any chance you want to gift me a promo code since I love you guys,,2/19/2015 8:46,San Francisco,Pacific Time (US & Canada)
+9.80E+01,neutral,0.6774,,0,Virgin America,,itsGREEKSAUSAGE,,0,"@VirginAmerica I just did, how can I DM? Do u have to also add me?",,2/19/2015 8:01,"NY, NJ, CA, Greece",Eastern Time (US & Canada)
+9.90E+01,positive,0.6618,,,Virgin America,,kzone7,,0,"@VirginAmerica For my Grandma Ella's 80th, she would &lt;3 a bday greeting from your flight crew! She was a stewardess for Eastern Airlines.",,2/19/2015 7:50,"Long Island, NY",Eastern Time (US & Canada)
+1.00E+02,positive,0.6871,,,Virgin America,,quackling,,0,@VirginAmerica that doesn't look to fat to me! It looks yummy!,,2/19/2015 4:52,"Birmingham, Michigan",
+1.01E+02,neutral,0.6811,,,Virgin America,,stevengcpa,,0,@VirginAmerica a brilliant brisk am in Boston in cue for vx363 http://t.co/rMZNIVGmg6,,2/19/2015 4:10,California,Pacific Time (US & Canada)
+1.02E+02,neutral,0.7026,,0,Virgin America,,AlgeriaTweets,,0,@VirginAmerica Atlantic ploughs a lone furrow in the #MiddleEast http://t.co/vw4P4T4tLh @TheNationalUAE,,2/18/2015 23:15,"Algiers, Algeria",Abu Dhabi
+1.03E+02,positive,0.6724,,,Virgin America,,_raulll,,0,@VirginAmerica omg omg😍😍 nonstop Dallas to Austin on virgin✨😱✈️,,2/18/2015 22:58,"mckinney, tx",
+1.04E+02,negative,0.6801,Flight Booking Problems,0.6801,Virgin America,,gbone34,,0,@VirginAmerica I'm pulling my hair out trying to book a flight with u. Your site doesn't work on iPhone or iPad.don't have a computer #help,,2/18/2015 20:03,,
+1.05E+02,negative,0.6307,Customer Service Issue,0.6307,Virgin America,,edzme,,0,@VirginAmerica Can I get some help with a support ticket? It's been 15 days.... Incident: 150202-000419 Thank you!,,2/18/2015 18:47,The other side,
+1.06E+02,neutral,0.3483,,0,Virgin America,,timlopez,,0,@VirginAmerica Really? Sprint? I thought you guys were 'kewl'! 0_0,,2/18/2015 16:05,Southern California,Pacific Time (US & Canada)
+1.07E+02,neutral,0.639,,,Virgin America,,franks105,,0,@VirginAmerica you should have 39 dollar LAX-Las fares!!!,,2/18/2015 15:39,Hogwarts,Pacific Time (US & Canada)
+1.08E+02,negative,0.6727,Customer Service Issue,0.6727,Virgin America,,mekirkpatrick,,0,@VirginAmerica FYI the info@virginamerica.com email address you say to contact in password reset emails doesn't exist. Emails bounce.,,2/18/2015 14:26,"Long Beach, CA",Pacific Time (US & Canada)
+1.09E+02,negative,0.6702,Customer Service Issue,0.6702,Virgin America,,Pace6445,,0,@VirginAmerica your website sucks donkey dicks. Just thought you should know. All best.,"[40.63767372, -74.11075451]",2/18/2015 13:18,"Staten Island, NY",
+1.10E+02,negative,0.6876,Can't Tell,0.6876,Virgin America,,HuntTreadwell,,0,@VirginAmerica all crap channels which is why I pay to watch UK tv,,2/18/2015 12:42,,
+1.11E+02,negative,0.6901,longlines,0.3802,Virgin America,,mrpresident1776,,0,@VirginAmerica When will VX use all 6 LGA slots instead of 4 today? Adding AUS makes this less likely :(,,2/18/2015 11:37,"Washington, D.C.",
+1.12E+02,neutral,0.6646,,,Virgin America,,elimae724,,0,@VirginAmerica is helping me step up my @Tinder game! #TinderTips #tinderchamp http://t.co/jBmVVha63A,,2/18/2015 10:59,California Love #VFL,
+1.13E+02,neutral,0.663,,,Virgin America,,AUStinAirport,,2,"@VirginAmerica announces new nonstop connecting @AUStinAirport &amp; @DallasLoveField, $39 intro: http://t.co/qXnOaQtYN8 http://t.co/JK7qmdfqgf",,2/18/2015 10:25,"Austin, TX",Mountain Time (US & Canada)
+1.14E+02,neutral,0.6895,,,Virgin America,,reaganroy,,1,@VirginAmerica adds Austin-Dallas Love Field route. http://t.co/XWJoL55FLH http://t.co/Y8AOrMfkaC,,2/18/2015 9:47,,Central Time (US & Canada)
+1.15E+02,negative,0.6651,Flight Booking Problems,0.3413,Virgin America,,onewil,,0,@VirginAmerica sad to learn you no longer fly SFO &gt; PHL. Hope it returns!,"[0.0, 0.0]",2/18/2015 9:46,"San Francisco, CA",Pacific Time (US & Canada)
+1.16E+02,positive,0.6655,,,Virgin America,,chrisdpatton,,0,"@VirginAmerica , am I dreaming? Did you really just open up a route between Dallas and Austin?! And does this mean Houston might be next?",,2/18/2015 9:11,"Annapolis, Maryland",
+1.17E+02,neutral,0.6632,,,Virgin America,,AwsmSpaceMonkey,,0,@VirginAmerica Nice to see you expanding in Texas but don't forget about us here in #SanDiego. I would love to see more flights out of here!,,2/18/2015 8:34,"San Marcos, CA",Pacific Time (US & Canada)
+1.18E+02,neutral,0.6477,,0,Virgin America,,opteyemisg,,0,@VirginAmerica can we make every VX plane with #nerdbird? Why should Austin be the only one getting nerd love?,,2/18/2015 6:29,,Central Time (US & Canada)
+1.19E+02,neutral,0.6202,,0,Virgin America,,steve97070,,0,@VirginAmerica please add more frequency to PDX Portland,,2/18/2015 6:23,,
+1.20E+02,positive,0.6431,,,Virgin America,,HaraLillier,,0,@VirginAmerica I am all about the in flight artisanal cheese and wine pairing.,,2/17/2015 20:49,,Atlantic Time (Canada)
+1.21E+02,positive,0.6681,,,Virgin America,,Price714,,0,@VirginAmerica I'm sure a lot of your 747 and 777 JFK-LHR flights go a lot faster than 513mph with a strong tailwind.,,2/17/2015 18:30,"Hamilton, Ohio",Atlantic Time (Canada)
+1.22E+02,positive,0.7162,,,Virgin America,,mctrees02,,0,@VirginAmerica now it's just t-minus 32 minutes until my Elevate a Silver upgrade window opens . #FreeNeverSucks 😃👍,,2/17/2015 17:29,"Dallas, TX",Central Time (US & Canada)
+1.23E+02,positive,0.6733,,,Virgin America,,TheAdamRizz,,0,@VirginAmerica @JezzieGoldz would have been a rough trip but LUCKILY we were on a #virginamerica flight. #weather,,2/17/2015 16:44,"Dallas, Texas",Pacific Time (US & Canada)
+1.24E+02,neutral,0.6601,,,Virgin America,,josiebarosie,,0,@VirginAmerica is that #thestarter??😁,,2/17/2015 16:39,Cork.Ireland,
+1.25E+02,neutral,0.6198,,,Virgin America,,killawattannie,,0,@VirginAmerica ...Please come to Minneapolis St. Paul!,,2/17/2015 16:37,,Mountain Time (US & Canada)
+1.26E+02,neutral,0.3542,,0,Virgin America,,JAYXXX1,,0,@VirginAmerica YES FYI  MY BFF,,2/17/2015 15:32,,
+1.27E+02,neutral,0.6446,,0,Virgin America,,SimplyImplicit,,0,@VirginAmerica do you have an application for iOS? Was looking and only saw Virgin Mexico :( &lt;/3,,2/17/2015 14:22,"Los Angeles, CA",Central Time (US & Canada)
+1.28E+02,neutral,0.6457,,,Virgin America,,ICEportal,,0,@VirginAmerica Good point!,,2/17/2015 14:07,"Hollywood, FL",Eastern Time (US & Canada)
+1.29E+02,neutral,0.6731,,,Virgin America,,EnonThaPhenom,,0,.@VirginAmerica I heard he has a virgin mobile hotspot ;),,2/17/2015 14:06,"Oakland, Ca",Pacific Time (US & Canada)
+1.30E+02,neutral,0.6831,,0,Virgin America,,judy_202,,0,@VirginAmerica how come ABC is the only one of the network channels you don't have?,,2/17/2015 13:24,"Washington, DC",Eastern Time (US & Canada)
+1.31E+02,negative,0.6579,Customer Service Issue,0.6579,Virgin America,,cayocrazy,,0,@VirginAmerica Umm so no reason as to why this is? Is there someone different I should contact (or contact me) to get a definitive answer?,,2/17/2015 11:48,,
+1.32E+02,negative,0.6515,Flight Booking Problems,0.3358,Virgin America,,paulhting,,0,@virginamerica Trying to make the change in advance (not just 24 hours prior)…tried it online earlier and it wanted $300 in change fees.,,2/17/2015 11:38,"Charlottesville, VA",Eastern Time (US & Canada)
+1.33E+02,negative,0.6778,Bad Flight,0.6778,Virgin America,,tan_talize,,0,"@VirginAmerica mood lighting on point🙌 Reclining my seat, kickin up my feet💤",,2/17/2015 10:14,LA&OC,
+1.34E+02,negative,0.3573,Late Flight,0.3573,Virgin America,,jonovoss,,0,@VirginAmerica my flight (6000) scheduled for 1pm departure still says on time but no plane at gate. Any update on how long of a delay?,,2/17/2015 10:02,"Washington, DC",Atlantic Time (Canada)
+1.35E+02,neutral,0.6694,,0,Virgin America,,waytogopdx,,0,@VirginAmerica still waiting to see  @Starryeyes_Dev_  😞,,2/17/2015 9:22,"Lake Oswego, Oregon",Pacific Time (US & Canada)
+1.36E+02,neutral,0.6376,,0,Virgin America,,Todd1HHD,,0,@VirginAmerica was wondering if you guys recieved my dm and we're able to potentially respond asap,,2/17/2015 8:52,Chicago,Central Time (US & Canada)
+1.37E+02,positive,0.3441,,0,United,,rombaa,,0,@united thanks -- we filled it out. How's our luck with this? Is it common?,,2/24/2015 11:38,,
+1.38E+02,neutral,0.6761,,0,United,,hmansfield,,0,"@united I understand, but it's tough when there is no way to get to the airport w/o serious risk of an accident. It's a steep price.",,2/24/2015 11:20,"Berkeley Heights, NJ",Quito
+1.39E+02,neutral,0.67,,0,United,,LarkAfterDark,,0,@united why not? Is it a law or a policy?,,2/24/2015 11:09,Harrisburg,
+1.40E+02,negative,0.6547,Customer Service Issue,0.3331,United,,Nikki62878,,0,"@united I did start a claim but 8-10 weeks is unrealistic, am I really supposed to go that long with out a car seat for my child.Ridiculous!",,2/24/2015 11:05,,
+1.41E+02,negative,0.6526,Can't Tell,0.6526,United,,WorstThingsBot,,0,@united @highbuddyyy that totally sucks my cousin worked at PHL said @united,,2/24/2015 10:54,,
+1.42E+02,neutral,0.6665,,,United,,CheerTymeDad,,0,@united @CheerTymeDad Gee that's like almost caring about ppl more than $$.  Think I'm more int in having a trusted adult w/ daughter .,,2/24/2015 10:33,,
+1.43E+02,negative,0.6495,Can't Tell,0.6495,United,,lotusfitness,,0,@united #Newarkliberty Airport need to indicate different gate#'s for terminals A&amp;C. #Flyingainteasy,,2/24/2015 10:25,"Washington, DC",Eastern Time (US & Canada)
+1.44E+02,neutral,0.6523,,0,United,,Guggero,,0,@united i DMed you the details,,2/24/2015 10:12,NYC,Eastern Time (US & Canada)
+1.45E+02,positive,0.6793,,0,United,,mattwbaker,,0,"@united - thanks for your help...got me what I need, but its an issue with @_austrian . I guess I sit awhile longer.",,2/24/2015 10:06,The Center of My Universe,Mountain Time (US & Canada)
+1.46E+02,negative,0.6695,Can't Tell,0.3356,United,,logainne,,0,@united When will email address/username sign-on be available? It's been a while.,,2/24/2015 9:41,945XX to 111XX,Eastern Time (US & Canada)
+1.47E+02,positive,0.6421,,0,United,,discobiscuit63,,0,@united I flew United last month and the experience was AWESOME!,,2/24/2015 9:16,,Central Time (US & Canada)
+1.48E+02,negative,0.6794,Customer Service Issue,0.3802,United,,jkentakula,,0,"@united as a 1k, I'm always hoping for improvement.",,2/24/2015 9:08,,
+1.49E+02,negative,0.6752,Flight Booking Problems,0.3468,United,,mattbunk,,0,@united What is your phone number. I can't find who to call about a flight reservation.,,2/24/2015 8:34,"Sterling Heights, MI",Eastern Time (US & Canada)
+1.50E+02,neutral,0.6466,,0,United,,Mateyush,,0,@united It was last night's 1235/ORD-LGA.,,2/24/2015 8:29,Above the B/D/N/Q/R/2/3/4/5,Eastern Time (US & Canada)
+1.51E+02,neutral,0.6638,,,United,,Sri_Philips,,0,@united thank you !,,2/24/2015 8:26,"Chicago, IL, USA",
+1.52E+02,neutral,0.703,,0,United,,MyCustoAdvocate,,0,@united Airline trouble this winter &amp; not getting good customer service? contact http://t.co/aQjn4HwNaC  we negotiate resolutions for You!,,2/24/2015 7:52,"Miami, New York, Boston",
+1.53E+02,neutral,0.6804,,0,United,,kelseyblack92,,0,@united is there an email address I can reach? Too long for a DM.,,2/24/2015 7:44,Canada,Eastern Time (US & Canada)
+1.54E+02,negative,0.6633,Customer Service Issue,0.3367,United,,andreaSanger,,0,@united it was credit from my last trip that never came in the mail!,,2/24/2015 7:41,,
+1.55E+02,neutral,0.6985,,,United,,Hannahsfight1,,0,@united Pls Help Baby Hannah get the life saving surgeries she requires.She needs your help.Pls Donate/RT http://t.co/kQnrrP86A5,,2/24/2015 7:09,Right Now Mostly The Hospital,Atlantic Time (Canada)
+1.56E+02,neutral,0.6051,,0,United,,brimalxx,,0,"@united bet you wont honour them, like mine ey",,2/24/2015 7:03,Manchester,
+1.57E+02,neutral,0.6349,,0,United,,Evan_Flay,,0,"@united I guess that's too much ask, huh?","[29.98386923, -95.33729612]",2/24/2015 6:58,Seattle,Pacific Time (US & Canada)
+1.58E+02,negative,0.6501,Customer Service Issue,0.3265,United,,christinphillip,,0,@united Not sure what you are talking about. She is going on nonstop flights. SNA to SFO and then SFO to EWR.,,2/24/2015 6:52,"Princeton, NJ",Central Time (US & Canada)
+1.59E+02,negative,0.6611,Can't Tell,0.6611,United,,dlm_3,,0,@united I see you guys are at it again. Amazing how one company continually makes mistakes yet fails to be held accountable for their error,,2/24/2015 6:43,Global,Eastern Time (US & Canada)
+1.60E+02,negative,0.6894,Late Flight,0.3497,United,,etiyi,,0,@united Yeah sorry but there's always a problem with United. And you have an international reputation for having problems.,,2/24/2015 6:33,. ,Central Time (US & Canada)
+1.61E+02,negative,0.6692,Can't Tell,0.3426,United,,throthra,,0,@united I wonder if sharing all this on FB and insta would produce a number. 140 characters really limits my story telling.,,2/24/2015 6:31,,
+1.62E+02,negative,0.6923,Customer Service Issue,0.3846,United,,_mhertz,,0,@united you have to follow me in order for me to DM...come on now,,2/24/2015 6:18,,Pacific Time (US & Canada)
+1.63E+02,negative,0.7125,Late Flight,0.7125,United,,xRaeCatherine,,0,"@united I've sent the message, let me know if you got it. I'm not very twitter-literate. Also, is he REALLY going to be stuck for 18hrs?",,2/24/2015 5:42,,
+1.64E+02,negative,0.6392,Late Flight,0.3402,United,,bcarlsrud,,0,"@united yep that's correct, I got an email at 12:30 am that the flight was Cancelled Flightled, doesn't matter now flight into atl is delayed, thx",,2/24/2015 5:17,,Central Time (US & Canada)
+1.65E+02,neutral,0.352,,0,United,,LukeGzus,,0,@united Done and done,,2/24/2015 5:11,,
+1.66E+02,neutral,0.3433,,0,United,,brooklyn_dodger,,0,.Thnx for the response @united bot. It seems this 'improvement' could be easily attained. Is your 1st Class service really only worth $50?,,2/24/2015 4:24,Brooklyn,Eastern Time (US & Canada)
+1.67E+02,negative,0.6296,Customer Service Issue,0.6296,United,,sothenbethsaid,,0,"@united I hadn't filed a refund claim as I was told there was no charge by your DM. This is disputed by my bank, hence why I would like(1/2)",,2/24/2015 2:57,Nottingham,London
+1.68E+02,positive,0.7141,,0,United,,SaipanBrad,,0,@united Every United flight between Saipan and Guam is an adventure! You never know when @CapeAir's old plane will be operational :),,2/24/2015 2:55,"Saipan, MP",Guam
+1.69E+02,negative,0.69,Lost Luggage,0.69,United,,michaelsalinger,,0,@united how we looking on getting those bags to Lusaka,,2/24/2015 0:51,"mentor, Ohio",Eastern Time (US & Canada)
+1.70E+02,negative,0.6721,Customer Service Issue,0.6721,United,,kbleggett,,0,@lindaSWC @united:  We don't like to hear you had a poor experience. Please share details w/our Customer Care team http://t.co/HIsc4NdMgZ.,,2/23/2015 22:31,"Ottawa, Canada",Eastern Time (US & Canada)
+1.71E+02,neutral,0.6738,,0,United,,fairplay500,,0,@united This is NOT a local UNITED number for Malaysia   0011 800-55558000. What is your local United Airlines here in Kuala Lumpur ( KUL )?,"[0.0, 0.0]",2/23/2015 22:24,Huntsville AL USA,Central Time (US & Canada)
+1.72E+02,neutral,0.7065,,0,United,,FIETA_DOC,,0,@united yes I do.,,2/23/2015 21:55,"Madison, NJ",
+1.73E+02,neutral,0.6373,,0,United,,DJPartyMarty,,0,@united unfortunately still on the Tarmac at @fly2ohare and definitely missing my ride from @flypdx #GonnaBeALongNight,"[41.9785651, -87.90833965]",2/23/2015 21:21,,Pacific Time (US & Canada)
+1.74E+02,negative,0.6641,Customer Service Issue,0.3424,United,,Darquenloveli,,0,“@united: @Darquenloveli We regret to hear this. Please let us know if you need assistance. ^KN” I was finally able to secure my seat. Thx,,2/23/2015 21:17,Texas,Central Time (US & Canada)
+1.75E+02,neutral,0.6533,,0,United,,zach_wardroup,,0,@united @luke_mcintosh68 nah you wouldn't,,2/23/2015 20:46,[Colorado],
+1.76E+02,positive,0.688,,0,United,,luke_mcintosh68,,0,@united man I can't wait to book my ticket now! Thanks JP you're a life sabe,,2/23/2015 20:32,Colorado,
+1.77E+02,neutral,0.7029,,0,United,,sacsmitty,,0,"@united My post was just more of disappointment.  I'm a frequent United flyer, it was a simple ??.  1 bad apple doesn't spoil the bunch.",,2/23/2015 20:13,"Rocklin, CA",
+1.78E+02,negative,0.6352,Customer Service Issue,0.3231,United,,The5y5Adm1n,,0,@United I have no way of making phones calls... Need to handle via Twitter/email/web. Thank you!,,2/23/2015 20:09,,
+1.79E+02,neutral,0.6464,,0,United,,Gouwerijn,,0,"@united question:are there onboad 110 volt outlets in all planes? If so, where?","[35.8056542, -78.786848]",2/23/2015 20:05,Alphen aan den Rijn,Amsterdam
+1.80E+02,negative,0.6588,Can't Tell,0.6588,United,,oduric,,0,@united Your website deserves a new design. #html5 FTW!,,2/23/2015 20:03,Singapore,Berlin
+1.81E+02,neutral,0.732,,,United,,BinyGlancz,,0,@united I hope so too,,2/23/2015 19:51,,
+1.82E+02,negative,0.7055,Lost Luggage,0.7055,United,,danmedwards,,0,@united Not encouraged that I'll have my CPAP tonight.,,2/23/2015 19:45,"Westerville, Ohio",
+1.83E+02,negative,0.7,Late Flight,0.7,United,,CharlieGMoney,,0,@united After our unscheduled refueling stop and missing 2 connecting flights we r home n looking 4ward to our bed and a big PB&amp;J sandwich.,"[41.98191311, -87.80888924]",2/23/2015 19:21,"Chicago, IL",
+1.84E+02,neutral,0.6684,,0,United,,Zgrinch,,0,"@united rebooting Chicago dispatch system, need @pivotalcf as I'm tired of sitting on planes",,2/23/2015 18:42,"iPhone: 39.201706,-106.854080",Mountain Time (US & Canada)
+1.85E+02,negative,0.6847,Lost Luggage,0.6847,United,,MommyPR,,0,@united can you tell me how to file a claim for clothing that had to be purchased?,,2/23/2015 18:39,Global,Pacific Time (US & Canada)
+1.86E+02,negative,0.6644,Flight Booking Problems,0.3437,United,,TravelShopVT,,0,@united here is the ticket # 0162424965446 please refund my unnecessary upgrade fee,,2/23/2015 18:21,,Eastern Time (US & Canada)
+1.87E+02,positive,0.6699,,,United,,frqnttraveler,,0,@united awesome I'll book my next Christmas vacatinn this December any other ways you want to devalue mileage plus.,,2/23/2015 17:31,california,
+1.88E+02,neutral,0.6479,,0,United,,startupstella,,0,@united how is Mexico not international from the us?,,2/23/2015 17:07,"Chicago, IL",Central Time (US & Canada)
+1.89E+02,neutral,0.3435,,0,United,,goodenufmother,,0,Just sent thank u RT @united: @goodenufmother Please DM your confirmation number if reFlight Booking Problems is needed. Thank you. ^EY,,2/23/2015 16:48,GEM HQ (aka walk-in closet) NY,Eastern Time (US & Canada)
+1.90E+02,negative,0.6914,Customer Service Issue,0.3704,United,,bartha75,,0,@united  i have a weekend of dealing with your company that would say otherwise.,"[0.0, 0.0]",2/23/2015 16:39,san diego,
+1.91E+02,neutral,0.6557,,,United,,lovejodierose,,0,@united please upload the March on-demand entertainment listing on your website! ✈️,,2/23/2015 16:32,"melbourne, australia",London
+1.92E+02,neutral,0.6511,,0,United,,koploperfan1992,,0,"@united did you have seen my message today?? About a mcdonnell Douglas dc 10 model?? I will hear it if you read it, Goodnight now","[51.3228181, 5.3576138]",2/23/2015 16:09,Winterfell,
+1.93E+02,positive,0.6682,,0,United,,ryanaround,,0,@united Thank you. Took care of everything and made it right. That's the experience I'm used to. Opened the app to find flight changed.,,2/23/2015 15:34,San Francisco,Pacific Time (US & Canada)
+1.94E+02,positive,0.6741,,0,United,,aliasboogie,,0,@united that's exactly the point. It fits. I'm premier access. Boarding group 2. This was a return ticket. I've been doing this for 15 yrs,,2/23/2015 15:17,"New York City, NY",Eastern Time (US & Canada)
+1.95E+02,neutral,0.7059,,0,United,,cameronsmith17,,0,@united thank you for the quick response but I cannot dm you until you follow me as well,,2/23/2015 14:35,,Mountain Time (US & Canada)
+1.96E+02,neutral,0.6825,,,United,,RoatanGallery,,0,"@united thanks! It's 35K miles from RTB to Europe, to do a multiple destination so we could stop over in US on way/way back- mileage diff?",,2/23/2015 14:18,"Roatan, Islas de la Bahia",Eastern Time (US & Canada)
+1.97E+02,neutral,0.335,,0,United,,cristobalwong,,0,"@united Thank you, ^JH, appreciate the prompt responses--me and other passengers will be doing so.",,2/23/2015 13:28,San Francisco Bay Area,
+1.98E+02,positive,0.6534,,,United,,teamcrafty,,0,@united thank you,,2/23/2015 13:24,Grand Rapids,Quito
+1.99E+02,positive,0.6915,,,United,,swampynomo,,0,@united he has no priority and Iove it,,2/23/2015 13:20,NJ/NYC,Eastern Time (US & Canada)
+2.00E+02,negative,0.6995,Can't Tell,0.6995,United,,scott_fitzy,,0,"@united @campilley hahaha. If they weren't an American company, i would say this was great sarcasm!!",,2/23/2015 13:13,,Eastern Time (US & Canada)
+2.01E+02,negative,0.649,Flight Attendant Complaints,0.649,United,,lisaboban,,0,"@united Thank you. Mention that before I boarded she asked 1other person to measure their bag, and it was another woman. Men not asked.",,2/23/2015 12:59,Indiana,
+2.02E+02,positive,0.6729,,,United,,CigarNate,,0,@united ok. I just submitted. Thanks for the opportunity to give feedback.,,2/23/2015 12:51,"Nashville, TN",Central Time (US & Canada)
+2.03E+02,positive,0.6346,,,United,,medictom,,0,"@united I will, as soon as I am done with my article.  Thanks!  ~Tom",,2/23/2015 12:47,"Brunswick, Ohio",Eastern Time (US & Canada)
+2.04E+02,neutral,0.6821,,0,United,,FlyEIA,,0,Thanks @united. @imran_r44 had a question about the wait time for baggage on UA6366,,2/23/2015 12:28,Edmonton International Airport,Mountain Time (US & Canada)
+2.05E+02,positive,0.643,,0,United,,jbuhl35,,0,@united flight 1491...plane from SFO to DEN is basically on time.,,2/23/2015 12:26,"Washington, DC",Atlantic Time (Canada)
+2.06E+02,negative,0.6661,Late Flight,0.6661,United,,DianeReischling,,0,@united well that's big of you but I don't have terribly high expectations at this point.,,2/23/2015 12:16,,Pacific Time (US & Canada)
+2.07E+02,negative,0.6383,Cancelled Flight,0.3217,United,,Lisa_Shaw777,,0,"@united Ok thank you, do you provide complimentary hotel accommodations since I'll have to stay overnight?",,2/23/2015 12:11,Kona coast/Boston/Milan,Amsterdam
+2.08E+02,neutral,0.7099,,,United,,momsgoodeats,,0,Flight Booking Problems for a travel writers trip I am hosting and need to be happy when I land! Do you have the cute PJs AA does? @united,,2/23/2015 11:42,#Omaha ,Central Time (US & Canada)
+2.09E+02,negative,0.6671,Can't Tell,0.3651,United,,Austin_Grisham,,0,@united don't see a justifiable cost to get on an early flight with seats. No airline charges to conveniently get their passengers in early,,2/23/2015 11:14,PDX,Alaska
+2.10E+02,negative,0.6568,Can't Tell,0.3479,United,,raulcordenillo,,0,@united Thanks! I'll fill up the form as soon as I land. I don't like being duped so I hope you will appreciate my feedback &amp; will be better,"[41.97474769, -87.89039148]",2/23/2015 11:07,"Stockholm, Sweden ",Stockholm
+2.11E+02,neutral,0.6566,,,United,,ADanaiBaker,,0,@united Definitely will!,,2/23/2015 10:57,,
+2.12E+02,neutral,0.3603,,0,United,,aleciamastin,,0,@united fails again. @SouthwestAir saves the day.,,2/23/2015 10:32,"St. Louis, MO",Central Time (US & Canada)
+2.13E+02,positive,0.3586,,0,United,,iworkinsmm,,0,@united Just sent! Thanks :),,2/23/2015 10:12,Los Angeles,Pacific Time (US & Canada)
+2.14E+02,negative,0.6669,Can't Tell,0.3546,United,,fdashev,,0,"@united e-ticket # 0162389030167, refund request # 16866853, case id # 8465981",,2/23/2015 9:46,"Pittsburgh, PA",
+2.15E+02,positive,0.3646,,0,United,,DanaHFreeman,,0,@united would love help getting there today. In #EWR now. Will take any airline and connections. Thx,,2/23/2015 9:16,"Burlington, Vermont",Eastern Time (US & Canada)
+2.16E+02,positive,0.6333,,0,United,,jakebellz,,0,@united The DEN b44 agent (9:30am) was amazing. The MPAgent at check in? She sucks. @seanMFmadden @PeterStraubMMA @jmercadoMMA @TonySimsMMA,,2/23/2015 8:50,,
+2.17E+02,neutral,0.3505,,0,United,,bsaitz,,0,"@united @scotthroth scott, need a good book suggestion?",,2/23/2015 8:26,"ÜT: 37.427592,-122.116357",
+2.18E+02,negative,0.6389,Customer Service Issue,0.6389,United,,cslhilo,,0,@united Please msg me a # for customer service. I will have an invoice for my dry cleaning but won't be able take wet clothes to the airport,,2/23/2015 7:55,"Hilo, HI",Hawaii
+2.19E+02,negative,0.708,Bad Flight,0.3591,United,,JohntheKiwi,,0,@united Slightly better. Crew spent a long time searching for better altitude. Would have helped to let pax in on why all the sharp drops.,,2/23/2015 7:47,"Stumptown, Baby!",Pacific Time (US & Canada)
+2.20E+02,positive,0.6576,,,United,,e_russell,,0,@united Thanks!,,2/23/2015 7:42,Frequently DC/NYC/San Diego,Eastern Time (US & Canada)
+2.21E+02,positive,0.6289,,0,United,,sentientcheese,,0,"@united been solved,  they finally picked up the second time I called,  thanks for the response JH!  7:21 to dulles works!",,2/23/2015 7:20,,
+2.22E+02,neutral,0.6763,,0,United,,AlMehairiAUH,,0,@United to operated #B767-300ER from #Newark to #Zurich @ZRH_airport replacing B767-400ER between 6MAY-23SEP instead till 23OCT #avgeek,,2/23/2015 7:05,Abu Dhabi,Abu Dhabi
+2.23E+02,neutral,0.6767,,,United,,ScottBerry18,,0,@united Thank you for your response!,,2/23/2015 6:54,"Albuquerque, New Mexico",Arizona
+2.24E+02,negative,0.7139,Customer Service Issue,0.3709,United,,keithpresser,,0,"@united I would like to talk to a customer service agent about the service / non service I received on my last flight a a week or so a go.
+J",,2/23/2015 6:32,,
+2.25E+02,negative,0.6782,Customer Service Issue,0.6782,United,,unibrowd,,0,@united it wasn't a comment. It was a question. But thanks for your copy and paste response,,2/23/2015 6:28,,Central Time (US & Canada)
+2.26E+02,neutral,0.6551,,0,United,,anthonyNYSSF,,0,@united please help http://t.co/t5mRj5Yw6I,,2/23/2015 5:29,,Eastern Time (US & Canada)
+2.27E+02,negative,0.3804,Flight Booking Problems,0.3804,United,,hart0277,,0,"@united wasn't trying to Cancelled Flight, just trying to change my award ticket, same date and place, but thanks for sending the link, I know the fee",,2/23/2015 5:12,Chicago,
+2.28E+02,neutral,0.6291,,,United,,DABranco1,,0,@united sitting in the middle for the first time .. Hope it works out well,"[40.69450196, -74.1749219]",2/23/2015 5:06,,
+2.29E+02,negative,0.7114,Can't Tell,0.3632,United,,cfacekillah,,0,@united you need a bag bouncer. Get it together,,2/23/2015 4:59,,
+2.30E+02,neutral,0.6237,,0,United,,nicoleleigh85,,0,@united and learn how to book flights. http://t.co/MHHS9RUpLv,,2/23/2015 4:53,Sheboygan,
+2.31E+02,negative,0.6565,Customer Service Issue,0.6565,United,,dealswelike,,1,@united - it's been almost 2 weeks and still no word from DOT on update of london fare to us cities? any updates on your end?,,2/23/2015 4:41,New York,Central Time (US & Canada)
+2.32E+02,positive,0.6868,,0,United,,tonywhelan,,0,@united have Michelle at T1 ORD train your other staff on how to treat customers. A refreshing pleasure to deal with.,,2/23/2015 4:28,Stavromula Beta,Quito
+2.33E+02,neutral,0.6861,,0,United,,crsmoore,,0,@united Will definitely do so. Sending a DM now.,,2/23/2015 4:25,USA / The World,Eastern Time (US & Canada)
+2.34E+02,neutral,0.6471,,0,United,,ohlesliebarker,,0,@united hi -- @united was. Thank you!,,2/23/2015 3:51,"Dallas, Texas",Central Time (US & Canada)
+2.35E+02,negative,0.6839,Customer Service Issue,0.3743,United,,notsingirl,,0,@united an efficient layout at kiosks/bag drop lines would help as there is no definition to space. Additional friendly and helpful staff,,2/23/2015 3:49,,
+2.36E+02,neutral,0.6657,,0,United,,RaffaellaDom,,0,@united Any news about the departure of the flight UA51?,,2/23/2015 3:43,Roma,Rome
+2.37E+02,negative,0.6907,Lost Luggage,0.6907,United,,8629Fissile,,0,@united Do you have a further update on the suitcase today please.,,2/23/2015 3:08,,London
+2.38E+02,negative,0.686,Can't Tell,0.686,United,,sarahali,,0,@united literally sucks,,2/23/2015 3:05,,
+2.39E+02,neutral,0.6652,,0,United,,Kwilusz1,,0,@united yes please. Going to drive the 6 hours.,,2/23/2015 2:43,,Quito
+2.40E+02,negative,0.6363,Flight Booking Problems,0.3417,United,,Rapetti,,0,@united was trying to change a flight online but got an error can you help via DM?,,2/23/2015 1:07,"San Francisco, CA",Pacific Time (US & Canada)
+2.41E+02,negative,0.6947,Late Flight,0.3579,United,,DelonGerry,,0,@united @DelonGerry ual sucks,,2/22/2015 23:39,,
+2.42E+02,negative,0.6851,Can't Tell,0.3596,United,,JasonArbaugh,,0,"@united Yes I did.  We headed out to de-ice 5 minutes after I sent it to you.  Made it to Austin, but am now waiting for the luggage.",,2/22/2015 23:01,,
+2.43E+02,negative,0.7087,Late Flight,0.7087,United,,greghm88,,0,@united thanks for having changed me. Managed to arrive with only 8 hours of delay and exhausted,,2/22/2015 22:23,London,
+2.44E+02,neutral,0.6659,,0,United,,toromiller,,0,"@united UA flight 1247. SFO to LAX took my carry on at gate. I'm Group 2, overhead bins are empty",,2/22/2015 22:11,"Boston, MA",Eastern Time (US & Canada)
+2.45E+02,negative,0.6361,Bad Flight,0.3532,United,,Frqtflyer1,,0,"@united Not to belabor my point,but shouldn't I be able to put a laptop bag above my seat?  Why is it announced to leave it for rollers? Thx",,2/22/2015 22:01,,Arizona
+2.46E+02,negative,0.6882,Can't Tell,0.3441,United,,PopsCutrona,,1,@united quick (serious) question - any resources/ratings showing the quality of service is better than 8th place? http://t.co/deWIthPeW2,,2/22/2015 20:58,"San Francisco, Ca",Pacific Time (US & Canada)
+2.47E+02,negative,0.65,Can't Tell,0.65,United,,jovytavarez,,0,@united i need help but in spanish,,2/22/2015 20:53,New Jersey,
+2.48E+02,neutral,0.6736,,0,United,,Luvs_Kitties,,0,@united @reccewife with the exception of everything you've asked for. Heh,,2/22/2015 20:36,#ygk,Atlantic Time (Canada)
+2.49E+02,negative,0.6334,Flight Booking Problems,0.6334,United,,patlee,,0,@united it was me who had the problem won flight ua 1580. I called and rebooked myself found my own hotel and taxi,,2/22/2015 20:29,"Bay Area, CA",Pacific Time (US & Canada)
+2.50E+02,negative,0.6571,Can't Tell,0.3429,United,,ssapol5722,,0,@united is there nothing you can do for me? No compensation at all? Given the circumstances I feel like there must be something you can do,,2/22/2015 20:08,New Jersey,Quito
+2.51E+02,negative,0.6606,Can't Tell,0.3425,United,,bricon67,,0,@United maybe find a different gate #ua1758,,2/22/2015 19:16,"ÜT: 33.987103,-118.399024",
+2.52E+02,neutral,0.6599,,0,United,,baftz,,0,@united @baftz rcvd promo if i booked flight silver status would be extended it was not dont have flier that was sent didnt think id need,,2/22/2015 19:01,,
+2.53E+02,positive,0.6544,,0,United,,RyanSennett,,0,@united bummer but thank you for the quick response,,2/22/2015 18:30,"Vancouver, WA",Pacific Time (US & Canada)
+2.54E+02,neutral,0.3732,,0,United,,wfmayo,,0,@united on the plane. I was thoughtful enough to ask for it and got it; there are prob others that also deserved it,,2/22/2015 17:25,"Vienna, VA",Eastern Time (US & Canada)
+2.55E+02,neutral,0.3428,,0,United,,danny_9_9,,0,@united S/O to @Delta for coming in clutch and finally taking me home 🙌🙌,,2/22/2015 17:19,,
+2.56E+02,neutral,0.34,,0,United,,RichGoldstein,,0,@united Didn't know that buying a seat in first class was just a 'request' to sit in first class! Very Interesting.,,2/22/2015 17:09,New York,
+2.57E+02,neutral,0.656,,0,United,,emilygalati,,0,"@united can I get on a stand by list from ASE to ORD? I'm the only poor person in Aspen, that's why I'm asking for standby on twitter.",,2/22/2015 17:05,"Chicago, IL",Mountain Time (US & Canada)
+2.58E+02,neutral,0.6137,,0,United,,bryankendro,,0,@united flight to DFW from IAD Cancelled Flightled for mechanical can I get rental car to MDT-my origin,,2/22/2015 16:37,Harrisburg,Eastern Time (US & Canada)
+2.59E+02,negative,0.6327,Lost Luggage,0.6327,United,,Spencerklein,,0,@united we needed to be at steamboat for a meeting by 3pm so we took a shuttle. The United customer service people said the bag would be on,,2/22/2015 16:02,,Eastern Time (US & Canada)
+2.60E+02,positive,0.6893,,0,United,,__XT,,0,@united thanks for updating me about the 1+ hour delay the exact second I got to ATL. 🙅🙅🙅,,2/22/2015 15:43,,Eastern Time (US & Canada)
+2.61E+02,negative,0.6966,Customer Service Issue,0.3596,United,,DanVidayo,,0,@united yes was trying to upgrade my seat. Now there are no available spots,,2/22/2015 15:36,Earth,Indiana (East)
+2.62E+02,negative,0.3608,Flight Attendant Complaints,0.3608,United,,reccewife,,0,"@united we were told when we checked in, as soon as we were allowed to, that there are no other seats available on the plane except middle.",,2/22/2015 15:34,"Kingston, Canada",Mountain Time (US & Canada)
+2.63E+02,positive,0.7068,,0,United,,rhettmcpeake,,0,"@united you all do a wonderful job today. Got my wife, daughter, and myself from PGH to Orlando after out flight was delayed luggage and all",,2/22/2015 15:28,Pittsburgh ,
+2.64E+02,negative,0.6484,Cancelled Flight,0.6484,United,,mgmcg16,,0,@united now this http://t.co/uygeW2Nosr,,2/22/2015 15:17,,
+2.65E+02,positive,0.3558,,0,United,,CDNTravelGuy,,0,@united nope. Even better there were 4 seats. And due to W&amp;B first to raise hands got to move up. I wasn't fast enough.,,2/22/2015 15:14,Toronto Area,Eastern Time (US & Canada)
+2.66E+02,neutral,0.6967,,0,United,,TheFireTracker2,,0,@united I'll let you know week after next when I do another coast-coast RT again.,,2/22/2015 15:03,Global- Mostly Silicon Valley,Pacific Time (US & Canada)
+2.67E+02,negative,0.6524,Bad Flight,0.356,United,,LisaAkey,,0,@united now let there also pls be in-flight live TV on UA469 DEN-EWR so I can watch the #Oscars ??,"[43.56768225, -116.22061173]",2/22/2015 14:58,"ÜT: 41.88849,-87.6282",
+2.68E+02,positive,0.6697,,,United,,scottdraeger,,0,@united I trust you enough to put my coat in my checked bag!,,2/22/2015 14:53,Chicagoland,Central Time (US & Canada)
+2.69E+02,positive,0.7142,,,United,,jesuisJOse,,0,@united went to Customer Service kiosk and they were able to help out! Still thanks for following up!,,2/22/2015 14:40,New York | Chicago,Eastern Time (US & Canada)
+2.70E+02,neutral,0.6117,,0,United,,BUlizard,,0,@united AND WE GOT ZERO VOUCHERS FOR HOTEL OR CAB. I expect some SERIOUS mileage credits.,,2/22/2015 14:37,,
+2.71E+02,negative,0.6852,Customer Service Issue,0.3453,United,,JTraxxNYC,,0,@united flight from san fransico to jfk was evacuated why?,,2/22/2015 14:20,"WASHINGTON HEIGHTS, NYC ",Pacific Time (US & Canada)
+2.72E+02,negative,0.6591,Bad Flight,0.3506,United,,no_patients,,0,@united yes... A ride home would be perfect.. A fete one would assume possible after charging 1600$ for a domestic flight... Ps we deplaned,,2/22/2015 13:57,,
+2.73E+02,negative,0.3398,Can't Tell,0.3398,United,,emrichards,,0,@united I'll try it. Mileage programs have historically been a lifeline for us world-hungry travelers of moderate means.,,2/22/2015 13:13,"ÜT: 42.986193,-87.914855",Central Time (US & Canada)
+2.74E+02,negative,0.6567,Customer Service Issue,0.3398,United,,FarmerFlo,,0,@united my last call your customer service agent called me back... As he was stuck on hold to air Canada.. Just hope he's booked me a flight,,2/22/2015 12:42,Cheltenham,
+2.75E+02,neutral,0.6423,,0,United,,tspinnersbride,,0,@united I don't know what DM the confirmation number means.,,2/22/2015 12:10,,
+2.76E+02,neutral,0.6186,,0,United,,LMSNaomi,,0,@united no thank you,,2/22/2015 11:33,deep in the ❤ of Texas...,Atlantic Time (Canada)
+2.77E+02,negative,0.6897,Lost Luggage,0.6897,United,,DangVanda,,0,"@united, no. Re-booked with American and United said they'd transfer our bags to them.",,2/22/2015 11:28,STL,
+2.78E+02,positive,0.3551,,0,United,,swolfhoops,,0,@united will do. Just need to get CVG.... and my bag too. Thanks,"[41.97456785, -87.90563774]",2/22/2015 10:13,"Loveland, Ohio",Atlantic Time (Canada)
+2.79E+02,neutral,0.6617,,0,United,,Lmuschel,,0,@united doesn't purchasing ticket with a united card give me priority boarding ?,,2/22/2015 10:08,,
+2.80E+02,positive,0.6556,,,United,,toinecl,,0,"@united it was very comfortable, now waiting for our luggage","[0.0, 0.0]",2/22/2015 9:24,"Keyport, New Jersey",Eastern Time (US & Canada)
+2.81E+02,positive,0.3512,,0,United,,worldknits,,0,@united thank you,,2/22/2015 9:14,"Fredericksburg, VA",Eastern Time (US & Canada)
+2.82E+02,negative,0.667,Lost Luggage,0.3341,United,,4geiger,,0,@united not my luggage,,2/22/2015 9:07,Kingwood,
+2.83E+02,neutral,0.6753,,0,United,,allen_crawford,,0,"@united It was 3387. But we helped you with the weight issue, took your vouchers, and hopped on a @Delta flight instead. #winwin",,2/22/2015 8:17,"Indianapolis, IN",Eastern Time (US & Canada)
+2.84E+02,neutral,0.6642,,0,United,,CressM,,0,@united I6EP18,,2/22/2015 7:39,FL,
+2.85E+02,neutral,0.6365,,0,United,,roryfreeman87,,0,@united with about 25 people trying to get on flights,"[29.98872603, -95.3384666]",2/22/2015 7:08,california,Central Time (US & Canada)
+2.86E+02,neutral,0.6292,,0,United,,craigsmail,,0,@united can you change DKYDE6 to 4583&gt;36 on 2/23 instead of 3636&gt;606&gt;36; original reservation was for 4404&gt;36 yesterday but was Cancelled Flightled.,,2/22/2015 7:04,"Kansas City, USA",Eastern Time (US & Canada)
+2.87E+02,positive,0.6987,,,United,,auciello,,0,Very quick! TY. @united: @auciello I am sorry to hear this. Can you please follow and DM me the details of what transpired? ^JH,,2/22/2015 6:40,South Seaside Park/Puerto Rico,Eastern Time (US & Canada)
+2.88E+02,negative,0.3533,Cancelled Flight,0.3533,United,,CoachMcRoberts,,0,@united Back at the Denver airport and ready for round two today. Ready to get home!,,2/22/2015 6:34,"Oxford, MS",
+2.89E+02,neutral,0.6362,,0,United,,_Charette_,,0,@united we need a new flight to Tucson,,2/22/2015 6:10,SE AZ By Way of HV,Mountain Time (US & Canada)
+2.90E+02,negative,0.6586,Customer Service Issue,0.6586,United,,RodahlLL,,0,@united On hold 2X 60 min ea. Trying to bk a tix to Asia. Your website &amp; customer service dont want my business. Korea Air it is.,,2/22/2015 5:38,Hong Kong,Central Time (US & Canada)
+2.91E+02,neutral,0.6416,,0,United,,anil_arca,,0,@united I just sent to you.,,2/22/2015 5:29,"Virginia, USA",
+2.92E+02,negative,0.6513,Late Flight,0.3469,United,,jpfox13,,0,@united flight #1 no luck on #standby,,2/22/2015 4:57,the district of colombia,Eastern Time (US & Canada)
+2.93E+02,positive,0.3368,,0,United,,21stCenturyMom,,0,"@united Thank you but the person in Houston could only get me a flight routing through Newark, NJ and I'm going to SFO",,2/22/2015 4:45,,Pacific Time (US & Canada)
+2.94E+02,neutral,0.6807,,0,United,,LisaKothari,,0,"@united Seat 14A, Flight UA895","[22.31355693, 113.92636768]",2/22/2015 4:34,Seattle WA,Pacific Time (US & Canada)
+2.95E+02,positive,0.6848,,,United,,traceyabbywhite,,0,@united one lady helping the 12 of us with luggage,,2/22/2015 4:30,"Atlantic Highlands, NJ",Eastern Time (US & Canada)
+2.96E+02,negative,0.6525,Late Flight,0.3475,United,,victor_haydin,,0,@united it is too Late Flight for reFlight Booking Problems now - it is morning already and I no longer need a hotel room,,2/22/2015 3:40,,Kyiv
+2.97E+02,negative,0.3548,Lost Luggage,0.3548,United,,jimbradshaw4,,0,@united I know that. Thanks for the standard reply.,,2/22/2015 3:17,,Eastern Time (US & Canada)
+2.98E+02,negative,0.6528,Can't Tell,0.6528,United,,Whosgunz,,0,@united nice. I wonder how you pick who to respond to? Maybe only happy customers are easier. I wonder how many of those you have left.,,2/22/2015 0:54,,
+2.99E+02,negative,0.6856,Late Flight,0.6856,United,,mrp,,0,@united we just left @flySFO (delayed). http://t.co/XzBAjMiekx,,2/21/2015 23:38,sf - austin - sydney,Alaska
+3.00E+02,neutral,0.6845,,,United,,kreespa,,0,@united all set. Figured it out at the baggage office!,,2/21/2015 23:36,Little Rhody,Eastern Time (US & Canada)
+3.01E+02,negative,0.6621,Bad Flight,0.3483,United,,ChrisJValdez,,0,"@united I'd hardly call going from 10,000 miles to 1,000+ miles a ticket cutting edge. About 1/10 the perk?",,2/21/2015 22:38,"Yokohama, Japan",Central Time (US & Canada)
+3.02E+02,positive,0.6683,,,United,,StephanieWeyant,,0,@united Just sent a DM. Thank you for the acknowledgment.,,2/21/2015 22:31,New York City,
+3.03E+02,neutral,0.6592,,,United,,JEOKOO1,,0,@united download jeokoo the American app for air travelers,,2/21/2015 22:24,"Washington, DC. ",
+3.04E+02,negative,0.6554,Can't Tell,0.6554,United,,WM_j_MW,,0,@united Suck,,2/21/2015 21:26,"Wake Forest, NC",Eastern Time (US & Canada)
+3.05E+02,negative,0.6988,Cancelled Flight,0.3695,United,,Colettod,,0,@united Wife and I have two new destinations and I'm stuck in DC until Monday with no bags,,2/21/2015 19:22,"Ottawa, ON",Eastern Time (US & Canada)
+3.06E+02,negative,0.684,Customer Service Issue,0.3499,United,,Jo_Frost,,0,"@united when I read it say ' in some cases' can you please define this for me, when for example would it not be the case?",,2/21/2015 19:12,Global,Quito
+3.07E+02,negative,0.6562,Can't Tell,0.3568,United,,gwen1013,,0,"@united Not until tomorrow night. And the hotel voucher had higher rate than travelocity Not loving cost, but hard working staff",,2/21/2015 19:05,"New Haven, CT",
+3.08E+02,neutral,0.6414,,0,United,,patrick_maness,,0,"@united After all I have been through on this trip, can you get me on another airline home?",,2/21/2015 19:00,Rhode Island,Eastern Time (US & Canada)
+3.09E+02,positive,0.6496,,0,United,,absfine,,0,@united 732 from Denver. We just boarded! Fingers crossed we get into the air!!!,,2/21/2015 18:13,,Arizona
+3.10E+02,positive,0.6997,,,United,,Mumon7,,0,@united Thanks for the upgrade- please try to get my company to approve more business class travel.,,2/21/2015 18:03,"Vancouver, WA",Pacific Time (US & Canada)
+3.11E+02,negative,0.6674,Late Flight,0.6674,United,,micp3208,,0,@united hoping there is a spare a/c for 1171 tomorrow!  Have a ship to board!  The sched aircraft is delayed from previous flts.,,2/21/2015 18:01,"Ocean, NJ",
+3.12E+02,neutral,0.6259,,0,United,,jyotipethe,,0,"@united I have requested upgrade for EWR BOM flight, end of May. Miles + copay. When will i know if I am upgraded?",,2/21/2015 17:38,"Austin, Tx",Central Time (US & Canada)
+3.13E+02,negative,0.6465,Lost Luggage,0.6465,United,,maxcotter,,0,@united your baggage person told me to go through @AirCanada - they're handling my connecting flight.,,2/21/2015 17:28,toronto,Central Time (US & Canada)
+3.14E+02,neutral,0.6672,,,United,,BethRunsDisney,,0,@united Yes. About an hour after landing.,,2/21/2015 17:05,NYC,Eastern Time (US & Canada)
+3.15E+02,neutral,0.6196,,0,United,,jbishop309,,0,@united who do I need to contact regrading a complaint and to get a voucher funds for future travel on United?,,2/21/2015 16:23,,Mountain Time (US & Canada)
+3.16E+02,neutral,0.6325,,0,United,,JSJ35,,0,@united where's the crew for ua748?,,2/21/2015 15:49,Blue Area of the Moon,Eastern Time (US & Canada)
+3.17E+02,positive,0.6787,,,United,,SmallMol,,0,@united I see. Thanks for explaining.,,2/21/2015 15:33,A Californian in London,
+3.18E+02,neutral,0.6308,,0,United,,GreenkidspenWRA,,0,@united Hello we are doing a world record attempt on the amount of ball point pens in a collection please could you help with a pen?,,2/21/2015 15:11,Grimsby - UK,
+3.19E+02,negative,0.6435,Customer Service Issue,0.6435,United,,nicc1217,,0,@united how long does it take to get a response from your customer service about a complaint done through email?,,2/21/2015 14:17,Boston MA,Central Time (US & Canada)
+3.20E+02,negative,0.6744,Flight Attendant Complaints,0.3375,United,,jcharvardapp,,0,@united no wheelchairs,,2/21/2015 14:15,,Atlantic Time (Canada)
+3.21E+02,negative,0.6452,Can't Tell,0.3441,United,,9kenny5,,0,"@united Such as deodorant, shampoo, toothpaste. Seems like that would be limited to 70oz, correct?",,2/21/2015 14:04,England,London
+3.22E+02,neutral,0.6574,,,United,,PalenMcDermott,,0,@united !!!!! YAAYY!!! YAY PROM!!!! http://t.co/DXicoyioxF,,2/21/2015 13:52,,Eastern Time (US & Canada)
+3.23E+02,positive,0.3367,,0,United,,nyc2theworld,,0,@united Hmmm...seems like this could be something to be changed to be more #flyerfriendly.,,2/21/2015 13:41,One of the C-gates at EWR.,Eastern Time (US & Canada)
+3.24E+02,positive,0.358,,0,United,,ThatsVy,,0,"@united Hi there, looks like my connection is delayed too so I'll make it. Thanks!",,2/21/2015 13:07,SoCal,Pacific Time (US & Canada)
+3.25E+02,neutral,0.3444,,0,United,,c4pyro,,0,@united Home is Calgary can you get us there without the added expense of accommodations and meals.,,2/21/2015 12:33,,
+3.26E+02,positive,0.3366,,0,United,,zachkpearson,,0,.@united Thanks. Hopefully this is easily resolved.,,2/21/2015 12:09,"Portland, Oregon",Pacific Time (US & Canada)
+3.27E+02,positive,0.6487,,0,United,,marynevis,,0,@united They finally gave in a let him on. After they threatened to send him back to Vegas on coach. Thnx.,,2/21/2015 11:35,"Beautiful Stockton, CA",Pacific Time (US & Canada)
+3.28E+02,negative,0.6424,longlines,0.6424,United,,janemswift,,0,@united need assistance. Line is out the door and travelling with 3 kids.,,2/21/2015 11:21,"Middlebury, VT",Eastern Time (US & Canada)
+3.29E+02,positive,0.6679,,,United,,PierreSchmit,,0,"@united gave me a smile today, with a Zero Award... ;-) Computers have some sense of humour :-) http://t.co/JNqNbk7HuT",,2/21/2015 11:15,"Rixensart, Belgium",Brussels
+3.30E+02,negative,0.6197,Late Flight,0.6197,United,,RussPJohn,,0,"@united we are delayed in San Pedro, Belize. We are scheduled to fly out at 3pm from Belize City to Houston. Will you wait please?",,2/21/2015 11:05,NOLA Reb,Eastern Time (US & Canada)
+3.31E+02,negative,0.671,Late Flight,0.671,United,,SeanFedorko,,0,"@united although, I am stranded in Chicago O'Hare for another 8 hours. Any chance your cracker-jack service team could provide a meal?",,2/21/2015 10:18,,Eastern Time (US & Canada)
+3.32E+02,negative,0.6276,Cancelled Flight,0.6276,United,,halestorm62,,0,@united it's my 21st birthday and my sister is coming to celebrate but her flights keep Cancelled Flighting PLZ do all you can to get her here!!!!,,2/21/2015 9:52,,Quito
+3.33E+02,positive,0.7028,,,United,,DaRenton,,0,@united thank you for the help!!,,2/21/2015 9:37,Colorado,Mountain Time (US & Canada)
+3.34E+02,negative,0.7027,Flight Booking Problems,0.7027,United,,owenmcstravick,,0,"@united your website won't allow me to post the required document, i keep getting **were having technical difficulties**",,2/21/2015 8:24,UK,London
+3.35E+02,negative,0.3627,Can't Tell,0.3627,United,,AviNewYork,,0,@united Finally I get the right response. United must check this issue. UA 1514 EWR to PUJ on Friday 02/20/15.,,2/21/2015 7:59,,Eastern Time (US & Canada)
+3.36E+02,negative,0.6299,Late Flight,0.3423,United,,baldordash,,0,"@united @baldordash Rebooked,arrived 8 hours Late Flightr.  Last year 9 hrs to San Diego and the no inflight entertainment!",,2/21/2015 7:56,,
+3.37E+02,positive,0.689,,,United,,ananth77,,0,@united good job at CLE .. TPA on schedule ... 4 to 5 inches of snow ! http://t.co/9tbsJquw41,,2/21/2015 4:09,,Central Time (US & Canada)
+3.38E+02,neutral,0.6924,,,United,,Addair,,0,“@united: @Addair  We hope you don't miss your connection. For help with re-Flight Booking Problems please Follow us &amp; DM your confirmation. ^CP”done thx,,2/21/2015 3:30,"Raleigh, NC",Eastern Time (US & Canada)
+3.39E+02,negative,0.705,Bad Flight,0.705,United,,tcfitz3,,0,@united  No first class passenger should have to pay for inflight wifi.,,2/21/2015 2:45,Houston,Central Time (US & Canada)
+3.40E+02,neutral,0.626,,0,United,,2cJustice4all,,0,@united @paigeworthy : page United values your tweet b/c it's so rare that they receive tweets complimenting their service...most are fake.,,2/21/2015 0:45,Chicago Illinois Crime.Inc,Central Time (US & Canada)
+3.41E+02,positive,0.6531,,,United,,neilawinston,,0,@united I hope so too :),,2/20/2015 22:45,"Cleveland, OH",Eastern Time (US & Canada)
+3.42E+02,positive,0.7021,,,United,,robbshurr,,0,"@United, will you fill it? Yes they will. Thanks! #BringYourOwn, @kleankanteen http://t.co/daaa0rqBXW",,2/20/2015 21:56,"Boulder, CO",Mountain Time (US & Canada)
+3.43E+02,negative,0.6514,Lost Luggage,0.6514,United,,iandroid614,,0,@United Brothers baggage was lost on route to 2015 Panamerican Cross Country Cup Championship in Columbia. His race is Sunday. Please help.,,2/20/2015 21:52,"Kearney, Nebraska",Central Time (US & Canada)
+3.44E+02,negative,0.6498,Lost Luggage,0.6498,United,,larissatandy,,0,"@united how much longer will it take? It a guitar, not a royal commission!",,2/20/2015 21:19,"Vancouver, Canada",Melbourne
+3.45E+02,neutral,0.669,,0,United,,PeterDawoud,,0,@united you know what would be awesome? Providing us with complimentary entertainment on your flights. Especially those longer than 6 hours.,,2/20/2015 21:00,Redmond WA ,Pacific Time (US & Canada)
+3.46E+02,negative,0.6713,Can't Tell,0.3531,United,,leigh_emery,,1,“@united: @leigh_emery We don't like to hear this. Is there anything we can help with? Thanks. ^EY” another empty offer for help.,,2/20/2015 19:37,"Hoboken, NJ",Eastern Time (US & Canada)
+3.47E+02,negative,0.6613,Flight Booking Problems,0.6613,United,,Never_Regret_It,,0,@united UA7985 is a coshared flight w/ ANA. Unable to check in 24 hrs prior.,,2/20/2015 19:31,,
+3.48E+02,positive,0.6749,,,United,,DManonog,,0,@united thank you.,,2/20/2015 19:15,,
+3.49E+02,neutral,0.6849,,0,United,,MayhemRevived,,1,I left my dildo on the plane is there any way for me to get it back? @united,,2/20/2015 18:14,,
+3.50E+02,positive,0.6963,,0,United,,kevinkugler,,0,"@united Don't know her last name, but Karen at your call center is terrific.  Friendly, helpful.  Terrific representative. Kudos.",,2/20/2015 18:10,"Omaha, Nebraska",Central Time (US & Canada)
+3.51E+02,negative,0.6481,Flight Attendant Complaints,0.3351,United,,elbrooklyntaco,,1,"@united unsmiling rep. told us hotel shuttle comes ""like every 15 minutes."" Breezy 30 min. Late Flightr we're taking a cab. You going to reimburse?",,2/20/2015 17:49,,
+3.52E+02,negative,0.6537,Customer Service Issue,0.329,United,,Dra_Mck,,0,@united thank you for the reply. I emailed your customer care department about my experience.,,2/20/2015 17:43,Chapel Hill,Quito
+3.53E+02,negative,0.636,Can't Tell,0.324,United,,aushianya,,0,@united I had one interview I was the last person what does that mean?,,2/20/2015 17:39,,
+3.54E+02,positive,0.343,,0,United,,nfriesen1,,0,@united give her the recognition she deserves!,,2/20/2015 17:34,"Winnipeg, MB Canada",Central Time (US & Canada)
+3.55E+02,negative,0.685,Flight Booking Problems,0.3586,United,,iamtedking,,0,"@united ""Dear Ted. We don't care about you nor the Mileage Plus Card you pay a lot for. Bye bye. -- United""",,2/20/2015 16:37,,Eastern Time (US & Canada)
+3.56E+02,negative,0.6878,Can't Tell,0.3541,United,,archivelle,,0,"@united Also, group 5 is total BS.",,2/20/2015 15:39,New York,
+3.57E+02,positive,0.6755,,,United,,BattierCCIpuppy,,1,“@united: @BattierCCIpuppy Your puppy is so cute. We look forward to having both of you on board. Thanks for the high five. ^EY” 👏👏,,2/20/2015 15:03,"Sacramento, CA",
+3.58E+02,negative,0.665,Late Flight,0.335,United,,ChrisLaylin,,0,@united Existing reservation is fine. I was talking about no longer having an 0600 CMH-ORD option. 0638 gets me in too Late Flight.,"[0.0, 0.0]",2/20/2015 14:48,"Powell, OH",Eastern Time (US & Canada)
+3.59E+02,positive,0.3414,,0,United,,matsmall,,0,@united When are you coming back to @IFlyOAKland? You have a huge East Bay customer base due to SFO and *I* miss you!,"[0.0, 0.0]",2/20/2015 14:38,Oakland,Pacific Time (US & Canada)
+3.60E+02,negative,0.6718,Can't Tell,0.3435,United,,johnwoodRTR,,0,@United @Skywest do it again!   I will now miss one or probably both our Aspen events. #Fail,"[37.78736562, -122.40865161]",2/20/2015 14:32,Hong Kong,Eastern Time (US & Canada)
+3.61E+02,negative,0.7129,Bad Flight,0.7129,United,,caseymugar,,0,"@united add wifi, entertainment and the old seats and i’ll come back.",,2/20/2015 14:28,"Culver City, CA",Pacific Time (US & Canada)
+3.62E+02,negative,0.7112,Late Flight,0.3581,United,,CpyburnDC,,1,"@united as for volunteers to give up seats, people did! Now we sit for 25 minutes on plane waiting 4 them to add more people!  #letsgo",,2/20/2015 14:23,"Washington, DC",Eastern Time (US & Canada)
+3.63E+02,neutral,0.7246,,,United,,KeldaPharris,,1,"@united blood services, make your appt. today! 18009174929 http://t.co/6UXwPaduGS",,2/20/2015 13:37,Aberdeen,Central Time (US & Canada)
+3.64E+02,neutral,0.6491,,0,United,,jeeden_1,,0,"@united Not waiving change fees with the snow storm coming tomorrow? IAD is under Winter Storm warning tomorrow already, what's up?",,2/20/2015 13:31,"Purcellville, VA",
+3.65E+02,negative,0.6869,Can't Tell,0.3434,United,,andreamvdlg,,0,"@united not 100% sure, however my ticket included one checked bag, therefore this charge was extra and completely unanticipated.",,2/20/2015 13:26,Edinbrah ,Eastern Time (US & Canada)
+3.66E+02,negative,0.6747,Bad Flight,0.3477,United,,d_goodspeed,,0,@united just landed. Might want to check flight 304 plane from Houston. That sound was during takeoff &amp; landing http://t.co/QKquRagGoO,"[33.64314381, -84.44252134]",2/20/2015 13:14,USA,Central Time (US & Canada)
+3.67E+02,negative,0.6972,Late Flight,0.6972,United,,bugstory,,0,@united the passengers waited inside the flight on the runway and returned back in o gate that should not count as a valid journey,,2/20/2015 12:48,"Baltimore, MD",Eastern Time (US & Canada)
+3.68E+02,negative,0.6583,Late Flight,0.6583,United,,benjaminslavin,,0,@united please provide update on UA 791. This flight has been stranded by united with no information from the crew on the plane.,,2/20/2015 12:25,,Quito
+3.69E+02,neutral,0.6838,,0,United,,ItsmeAndrewC,,0,@united UA6357 needs de-icing! Stat! We've waited our turn...,,2/20/2015 11:31,,
+3.70E+02,neutral,0.6717,,0,United,,paul_chard63,,1,"@united it just goes round &amp; round, it's be going on for weeks,",,2/20/2015 10:40,"Celebration, FL ",Eastern Time (US & Canada)
+3.71E+02,positive,0.7185,,,United,,datachick,,0,Thank you @united for your prompt assistance.,"[43.68346133, -79.61394084]",2/20/2015 10:39,"Toronto, ON",Eastern Time (US & Canada)
+3.72E+02,neutral,0.6374,,0,United,,BananaPants06,,0,@united Do you also want the naming rights to my first child so I can fly home and visit with my mother and avoid more winter depression?,,2/20/2015 10:18,Chicago,Central Time (US & Canada)
+3.73E+02,neutral,0.3569,,0,United,,dizbaa1,,0,@united @JedediahBila KP I am not traveling - we trying to cheer up Ms. Bila.,,2/20/2015 10:09,,Eastern Time (US & Canada)
+3.74E+02,negative,0.6527,Late Flight,0.3395,United,,ScribblersNook,,0,@united I believe just customer service. At last post he was at Narita in Tokyo. They sent him to a motel to rest. Said standby maybe 2days,,2/20/2015 10:01,"Atlanta, GA",Eastern Time (US & Canada)
+3.75E+02,positive,0.6746,,0,United,,alexster4324,,0,@united can't wait!!! 787!!! @tpallini http://t.co/oDlall5eDH,,2/20/2015 9:03,,
+3.76E+02,neutral,0.6403,,0,United,,karenharbert,,0,@united Do miles earned with Explorer card count toward lifetime miles?,,2/20/2015 8:38,"Columbia, MO",Eastern Time (US & Canada)
+3.77E+02,neutral,0.6582,,0,United,,MrsHeyGil,,0,"@united traveling from FRA thru IAD to MCO tomorrow, concerned abt IAD weather. Can't change until advisory issued? Any advice?",,2/20/2015 7:40,"Obersulzbach, Germany",Quito
+3.78E+02,negative,0.6297,Cancelled Flight,0.6297,United,,blastedgtl,,0,@united my flight Cancelled Flightled new flight 5012 hopefully will not.,,2/20/2015 7:35,,Quito
+3.79E+02,positive,0.6711,,,United,,Easy_E_,,0,"@united Hi, flight 1051. If I try and book a new one way,  flight departure shows up as 3:55pm which seems accurate.",,2/20/2015 7:32,Tri State NY area...,Eastern Time (US & Canada)
+3.80E+02,neutral,0.6508,,,United,,bakedstove,,0,"@united Will do, cheers",,2/20/2015 6:58,"Boston, Massachusetts",Eastern Time (US & Canada)
+3.81E+02,negative,0.6976,Lost Luggage,0.6976,United,,JackieSken,,0,@united Item (not mine) mysteriously ended up in my checked bag after a #EWR to #YOW flight.  Missing a black box? http://t.co/SJQEmDtQmA,,2/20/2015 6:31,"Ottawa, ON",Eastern Time (US & Canada)
+3.82E+02,neutral,0.6709,,,United,,G4gey,,0,@united just kidding with you I'll send you my stuff now. Thanks,,2/20/2015 5:00,"Charlottesville, VA",London
+3.83E+02,neutral,0.6796,,0,United,,c_hughes_88,,0,@united tremendous. What would you recommend?,,2/20/2015 4:40,"Orlando, FL",Eastern Time (US & Canada)
+3.84E+02,neutral,0.3466,,0,United,,jnostrant,,0,@united I'll be impressed if I actually get a response! 😜,"[37.78194753, -122.43412918]",2/20/2015 0:56,"Los Angeles, CA",Pacific Time (US & Canada)
+3.85E+02,negative,0.6777,Can't Tell,0.6777,United,,jozecuervo,,0,"@united all good, didn't die or anything. As they say ""you get what you pay for""!",,2/19/2015 23:02,"San Francisco, Ca",Pacific Time (US & Canada)
+3.86E+02,positive,0.6608,,,United,,nrihssn,,0,@united maybe on my return trip 👍,,2/19/2015 22:45,NJ,Eastern Time (US & Canada)
+3.87E+02,neutral,0.6267,,,United,,bren8oh8,,0,@united thanks.  Not tonight it would seem. http://t.co/WNdcEO5QlK,"[40.7697595, -111.974937]",2/19/2015 22:12,SoCal is where my mind stays,
+3.88E+02,negative,0.5918,Customer Service Issue,0.5918,United,,theAdamW,,0,@United agent did help me. My point: there's a problem &amp; I don't want it to mess up somebody else's plans. Can u flow this to tech team pls?,,2/19/2015 22:04,"Los Angeles, California",Pacific Time (US & Canada)
+3.89E+02,negative,0.7067,Bad Flight,0.7067,United,,neilaruggiero,,0,@united  they were empty upon takeoff. Why can't someone sit there?,,2/19/2015 21:37,,
+3.90E+02,negative,0.6937,Flight Booking Problems,0.6937,United,,MrJADMIX,,0,"@united €202.88 is the difference between the booked flights, do you want screen shots?",,2/19/2015 21:12,,
+3.91E+02,negative,0.922,Customer Service Issue,0.4513,United,negative,Mosborne13,"Cancelled Flight
+Customer Service Issue",0,"@united rebooked 24 hours after original flight, to say your handling of situation was bad would be an understatement.",,2/19/2015 21:05,,Central Time (US & Canada)
+3.92E+02,neutral,0.6815,,0,United,,Ro_S,,0,@united - Kids left a kindle fire HD 6 onboard UA1037 (ORD-SFO) today. Row 9ABC-DEF (we had the whole row amongst the 5 of us).  Help...,,2/19/2015 20:39,IL,Central Time (US & Canada)
+3.93E+02,negative,0.6726,Customer Service Issue,0.3429,United,,mariachan90,,0,@united understanding the situation we waited and it was opened until 10:30pm,,2/19/2015 20:37,,Bogota
+3.94E+02,negative,0.668,Cancelled Flight,0.668,United,,markemanuelli,,0,"@united she was at the service desk at gate 21, and helped us find a flight to get us to our dest. on time when our flight got Cancelled Flightled",,2/19/2015 20:18,,Eastern Time (US & Canada)
+3.95E+02,negative,0.6908,Flight Attendant Complaints,0.3477,United,,SupaZ22,,0,@united it is cool. Your customer told me they didn't care either. It is expected,"[37.6209902, -122.3867265]",2/19/2015 19:39,"Chicago, Illinois.",Eastern Time (US & Canada)
+3.96E+02,negative,0.6866,Late Flight,0.6866,United,,tonypal1588,,0,@united @dmb41shows I need this plane to get to buffalo so I can leave tonight. Any progress?,,2/19/2015 19:05,Houston,Central Time (US & Canada)
+3.97E+02,negative,0.687,Late Flight,0.687,United,,RobBogart,,0,@united 4840 You knew this flight was delayed! MHT to ALB to EWR to get crew. Your arrival is Late Flightr than the departure! Update your site!,,2/19/2015 18:36,DC/SF/BFLO,
+3.98E+02,neutral,0.6433,,,United,,GDClearedToLand,,0,@United Stars and Bars @iah #A320 @airlineguys @AirlineGeeks #avgeek http://t.co/mWSoGUC33p,,2/19/2015 16:53,,
+3.99E+02,neutral,0.6485,,0,United,,dwrichy,,0,@united in Bogota with no wallet is no fun. :-(,,2/19/2015 16:48,,Eastern Time (US & Canada)
+4.00E+02,positive,0.6715,,0,United,,PaulBEsteves,,0,@united thanks for the help. Wish the phone reps could be so accomidating,,2/19/2015 16:13,Brooklyn,Eastern Time (US & Canada)
+4.01E+02,negative,0.3404,Can't Tell,0.3404,United,,Jaytolchinsky,,0,@united Donna and Juan still the best in the United Club_ too bad UAL does not get it,,2/19/2015 14:20,,Central Time (US & Canada)
+4.02E+02,positive,0.6712,,0,United,,jeggers,,0,@united thanks for making sure they hear the message!,,2/19/2015 13:48,"BOS, SFO, NYC, ++",Eastern Time (US & Canada)
+4.03E+02,negative,0.3401,Late Flight,0.3401,United,,jttorrey,,0,@united As it always is. Helps to communicate to customers.,,2/19/2015 12:31,,Pacific Time (US & Canada)
+4.04E+02,positive,0.6488,,,United,,DarinBrannon,,0,@united thank you. I will address it with them,,2/19/2015 12:25,"Monett, MO",Central Time (US & Canada)
+4.05E+02,negative,0.701,Can't Tell,0.701,United,,newyorkwool,,0,@united the wifi in the ewr lounge reminds me of the old days of dial up,,2/19/2015 12:11,Birkenhead upon Hudson,Eastern Time (US & Canada)
+4.06E+02,negative,0.7044,Customer Service Issue,0.7044,United,,vina_love,,0,@united I sent you a dm hours ago,,2/19/2015 10:57,ny,Quito
+4.07E+02,neutral,0.6614,,0,United,,jaredmatfess,,1,@united @estellevw does she need to complain on Twitter for the refund or is it auto-applied?,,2/19/2015 10:15,"iPhone: 41.871374,-72.497792",Eastern Time (US & Canada)
+4.08E+02,neutral,0.6507,,0,United,,ellieINchicago,,0,@united you need to follow me I order for me to DM....,"[34.06979432, -117.57757056]",2/19/2015 9:14,"Chicago, IL",Central Time (US & Canada)
+4.09E+02,negative,0.6723,Customer Service Issue,0.3594,United,,SaintAwesome504,,0,"@united I guess that's not the busiest route, so based on traffic/fuel costs, regional jet is the decision, but still not great 4 travelers.",,2/19/2015 8:58,,
+4.10E+02,positive,0.6779,,0,United,,llbeefpatties,,0,@united flight attendant regains karma by giving big sweaty dad cold water. Guy was running &amp; carrying his daughter.  Last one onboard.,,2/19/2015 8:07,,
+4.11E+02,negative,0.6619,Customer Service Issue,0.6619,United,,TheClayFox,,0,@united I’ve filled out the form twice. No email. I have a lost item code. Can you verify it was received?,"[0.0, 0.0]",2/19/2015 6:59,New York City (Silicon Alley),Eastern Time (US & Canada)
+4.12E+02,neutral,0.6859,,0,United,,Stacycole,,0,@united I did not.  That's why I am VERY concerned.,,2/19/2015 6:07,"Wisconsin, ya know",Central Time (US & Canada)
+4.13E+02,negative,0.6553,Customer Service Issue,0.3401,United,,WeekendInParis,,0,@united Is it customary to upgrade a flight attendant in uniform vs passengers? One is in 1B on flt 1020 now to IAH,,2/19/2015 5:21,,Central Time (US & Canada)
+4.14E+02,neutral,0.6969,,0,United,,jchatelain,,0,"@united Hi, booked a flight yesterday and received an email w/ confirmation number but today I got this error ""no active flight segments""",,2/19/2015 4:23,Paris,Paris
+4.15E+02,neutral,0.698,,0,United,,katie_sul1,,0,@united refund?,,2/19/2015 2:57,,Eastern Time (US & Canada)
+4.16E+02,neutral,0.3748,,0,United,,skilleahy,,0,@united @staralliance good.  Maybe that will make up for losing my medallion.  #ProbablyNot,,2/19/2015 2:27,,Sarajevo
+4.17E+02,neutral,0.6781,,0,United,,drooln,,0,"@united KOA-LAX should have fresh food service, right?",,2/18/2015 22:12,"Keauhou, Hawaii USA",Hawaii
+4.18E+02,neutral,0.6355,,,United,,TiffanyHaverly,,0,@united will do. Thank you!,,2/18/2015 21:31,Washington D.C.,Eastern Time (US & Canada)
+4.19E+02,neutral,0.7041,,,United,,KarlSoule,,0,@united done as requested.,"[1.3523078, 103.8637764]",2/18/2015 21:26,Singapore,Singapore
+4.20E+02,negative,0.6818,Can't Tell,0.6818,United,,CisWowon,,0,@united @staralliance the B gates are very far though,,2/18/2015 20:55,,Bangkok
+4.21E+02,neutral,0.7168,,,United,,vasm21,,0,@united thanks,,2/18/2015 20:22,Panamá,
+4.22E+02,negative,0.6328,Flight Booking Problems,0.324,United,,marccabi,,0,@united get a clue. I am a 1K/2mm miler and that is the response you give?,,2/18/2015 20:17,"Mill Valley, CA",Pacific Time (US & Canada)
+4.23E+02,neutral,0.6405,,0,United,,mwbotelho,,0,"@united Hopefully They will give me a feedback, bafore my flight...",,2/18/2015 18:02,Curitiba,Brasilia
+4.24E+02,negative,0.6304,Customer Service Issue,0.6304,United,,sjking2000,,0,@united I'm asking if you can simplify the communications- thx,,2/18/2015 17:59,"California, US",Pacific Time (US & Canada)
+4.25E+02,neutral,0.672,,0,United,,HelacoHLC,,0,@united We invite to Fallow @HelacoHLC learn about our activities.Prevention Programs of Health by Condom-Rito Family.We R 501(C)(3)Thanks,,2/18/2015 17:48,EIN: 27-0575748 -New York -USA,
+4.26E+02,neutral,0.6827,,0,United,,misslindahong,,0,"@united yes, you can. I will DM.",,2/18/2015 17:06,"St. Louis, MO for now",
+4.27E+02,neutral,0.6413,,,United,,jesisforlovers,,0,@united sent,,2/18/2015 15:24,"Oahu, Hi",Central Time (US & Canada)
+4.28E+02,positive,0.3626,,0,United,,jjirsa,,0,"@united Honestly, I stopped trying to report things via website. Now I just laugh. Flights work. Miles accrue. I'm sure it's just cosmetic.",,2/18/2015 15:19,Seattle,Pacific Time (US & Canada)
+4.29E+02,positive,0.7076,,0,United,,officialpcoops,,0,@united have reported it.  Still in Istanbul at the moment apparently.  On the other plane haha.  Hats off to the pilot!,,2/18/2015 15:11,,
+4.30E+02,negative,0.6309,Flight Booking Problems,0.3251,United,,parryaftab,,0,@united flying tomorrow from mexico to US. Mileage tkts dont show 1k status. Help,,2/18/2015 15:08,,Central Time (US & Canada)
+4.31E+02,negative,0.6678,Flight Booking Problems,0.3381,United,,GeorgeMcflyOG,,0,@united I will be patient as your agent explains how you have me booked on a new flight for 6:18 when that plane doesn't arrive until 6:07,,2/18/2015 14:39,NJ ,Eastern Time (US & Canada)
+4.32E+02,negative,0.6409,Flight Booking Problems,0.6409,United,,scofro14,,0,"@united, Thanks, but I didn't want to see 'we've started your flight search over' OR 'the fare &amp; rules for this itinerary has changed' again",,2/18/2015 12:37,,Mountain Time (US & Canada)
+4.33E+02,neutral,0.6944,,0,United,,Kthrngllcksn,,0,@united flight 5431,,2/18/2015 11:50,,Central Time (US & Canada)
+4.34E+02,negative,0.3654,Flight Booking Problems,0.3654,United,,MetinErtas06,,0,"@united yep, after long waiting on the phone we managed to rebook it. Hope it will be a pleasent one. Thanks for ur help.",,2/18/2015 11:28,,
+4.35E+02,neutral,0.647,,,United,,lorenzosimpson,,0,@united chase says no referral bonus. Thanks.,,2/18/2015 11:18,,Eastern Time (US & Canada)
+4.36E+02,negative,0.7113,Bad Flight,0.3814,United,,harris,,0,1/2 @united Just be honest with your customers. The new seats are designed to fit more rows on the plane. More rows = more money.,,2/18/2015 9:35,NYC,Eastern Time (US & Canada)
+4.37E+02,negative,0.7024,Late Flight,0.7024,United,,lynchbieberfan,,0,@united a plane took our gate and now we're just waiting in a lot at DIA,,2/18/2015 9:06,,Mountain Time (US & Canada)
+4.38E+02,neutral,0.6366,,,United,,rabbijfranklin,,0,"@united yes, would love an upgrade or voucher,  please give me a call 9148445695",,2/18/2015 7:38,Needham,Atlantic Time (Canada)
+4.39E+02,neutral,0.6953,,0,United,,fatabdula,,0,@united I submitted a status match last week and have not heard back. Im a delta customer looking to switch to United. Please assist.,,2/18/2015 6:40,,Eastern Time (US & Canada)
+4.40E+02,negative,0.6622,Lost Luggage,0.3328,United,,Z_J_M_,,0,@united Monday evening.,,2/18/2015 5:15,,Eastern Time (US & Canada)
+4.41E+02,neutral,0.6754,,,United,,aircargoweek,,0,"@united volumes, profit up http://t.co/pKfI9bTtzf #aviation #aircargo http://t.co/BBj6kMTYUl",,2/18/2015 2:02,"Redhill, UK",London
+4.42E+02,negative,0.6434,Late Flight,0.3529,United,,CWWMUK,,0,"@united ok, I have that, pretty sure I had it before too but will wait and see what happens....",,2/17/2015 23:30,North West of England,
+4.43E+02,neutral,0.3449,,0,United,,travellinghobby,,0,"@united Thanks. UA1121, DEN, 40 min on tarmac.",,2/17/2015 23:19,,Atlantic Time (Canada)
+4.44E+02,negative,0.3452,Can't Tell,0.3452,United,,Tgoody9,,0,"@united unless it's on you guys, im good.","[27.98622757, -82.5414547]",2/17/2015 21:39,"Sarasota, Florida ",Central Time (US & Canada)
+4.45E+02,neutral,0.6475,,0,United,,GregoryTheGr8,,0,"@united even with the multiplier the ticket price will still never equal the amount of miles you travel, even for transatlantic flights!",,2/17/2015 21:34,So Cal,Pacific Time (US & Canada)
+4.46E+02,positive,0.6367,,,United,,lynn_with_an_A,,0,@united :take note of this great example of @JetBlue actually making good for an extremely inconvenient situation. http://t.co/t3Gnk2N7LD,,2/17/2015 20:44,"Brooklyn, NY",Quito
+4.47E+02,negative,0.6356,Cancelled Flight,0.3355,United,,peterdawe,,0,@united we just almost had a major accident on ua3710 ... How about passing on some information to those of us waiting on plane!!!,,2/17/2015 20:16,Toronto,
+4.48E+02,positive,0.6301,,0,United,,ramsey,,0,"@united That made me so mad, but then I called the bag number, and that person was helpful and told me where the bag really was. (2/2)",,2/17/2015 19:57,"Nashville, TN",Central Time (US & Canada)
+4.49E+02,positive,0.6996,,,United,,crushspread,,0,"Cc @DadBoner  #boldflavors “@united: We’re bringing Bourbon St. to 35,000 ft. with bold flavors, fresh ingredients and more dining options""",,2/17/2015 18:29,des moines,Mountain Time (US & Canada)
+4.50E+02,neutral,0.6372,,0,United,,JackieFerrari3,,0,@united #UnitedAirlines wont wait 10min for fam w 2yr old connecting. flight leaves early instead for airport that is planes last stop today,,2/17/2015 17:55,Irvine,
+4.51E+02,negative,0.6369,Bad Flight,0.6369,United,,SooyunChoi,,0,"@united it was an international flight, and we didn't get our new eta until we were in the air.",,2/17/2015 17:01,California,Pacific Time (US & Canada)
+4.52E+02,negative,0.6317,Flight Booking Problems,0.6317,United,,mortgagejake,,0,@united also why can't I pre-select seats on SFO-&gt;YYZ flight? I'm a Canadian Flight Booking Problems on http://t.co/aZltJhf7lv.,,2/17/2015 15:25,toronto,Atlantic Time (Canada)
+4.53E+02,negative,0.6808,Customer Service Issue,0.3559,United,,gg8929,,0,@united Classic,,2/17/2015 14:53,,Amsterdam
+4.54E+02,neutral,0.6954,,0,United,,VisionRoij,,0,"@united Does the economy plus cabin also qualifies as a ""premium"" cabin?",,2/17/2015 14:42,The Netherlands,Amsterdam
+4.55E+02,neutral,0.6663,,,United,,egspoony,,0,@united for our birthdays my fiancé &amp; I want to travel Late Flight April. You're our fave airline but Frontier has this: http://t.co/uayWrr45as :-/,,2/17/2015 13:55,"Chicago, IL",Central Time (US & Canada)
+4.56E+02,neutral,0.3666,,0,United,,lanceklug,,0,@United Airlines' CEO Jeff Smisek: Disloyal to Loyal Workers http://t.co/0cevY3P42b via @HuffPostBiz,,2/17/2015 13:48,Sacramento,Pacific Time (US & Canada)
+4.57E+02,negative,0.6581,Customer Service Issue,0.6581,United,,ColtSTaylor,,0,@united of course I need help.  I've been DMing you ladies and gents all day. Your only solution is hope for the best and LAX.,,2/17/2015 9:48,All Over The World,
+4.58E+02,neutral,0.6631,,0,United,,rajuchinthala,,0,Thx! Stand by! “@united: @rajuchinthala I know it's frustrating and I do appreciate your patience while we try to get you on your way. ^JH”,,2/17/2015 9:31,Indianapolis,Eastern Time (US & Canada)
+4.59E+02,positive,0.7097,,0,United,,BhutanOrient,,0,"@united no worries about the tweets. We all should do what we can to make sure we, as in your tag line, ""Fly the Friendly Skies.""",,2/17/2015 9:13,Bhutan,Pacific Time (US & Canada)
+4.60E+02,negative,0.3456,Can't Tell,0.3456,United,,meracross,,0,"@united's first-class #cockup
+http://t.co/oh7CFv7DHR",,2/17/2015 9:00,Toronto,Pacific Time (US & Canada)
+4.61E+02,negative,0.7109,Can't Tell,0.3609,United,,richardkerris,,0,"@united Bad coffee, but the juice is ok. #GetPhilz @ United Terminal SFO Airport http://t.co/Sg7IQqFVsO","[37.62006843, -122.38822083]",2/17/2015 8:48,"Los Gatos, CA ",
+4.62E+02,neutral,0.7015,,0,Southwest,,brittanylinnes,,0,.@SouthwestAir she needs a wheelchair at the gate for sure. What options does she have?,,2/24/2015 10:44,"New York, NY",Eastern Time (US & Canada)
+4.63E+02,positive,0.345,,0,Southwest,,SMiles1307,,0,@SouthwestAir @heavenlychc9 I'd at least enjoy a free cocktail...or two.,,2/24/2015 9:57,,
+4.64E+02,negative,0.651,Customer Service Issue,0.651,Southwest,,JReneeX0X0,,0,@SouthwestAir I was told by customer service that only customer relations can extend the expiration date of my unused travel funds.,,2/24/2015 9:23,Around...,Eastern Time (US & Canada)
+4.65E+02,neutral,0.6542,,,Southwest,,Heavenlychc9,,0,@SouthwestAir 3rd time flying southwest in two years. Have another trip back to mx on October.,,2/24/2015 9:19,,
+4.66E+02,neutral,0.6382,,0,Southwest,,briman007,,0,@SouthwestAir live in Atlanta but cant enroll in your Atlanta companion promotion. Error every time. Can you help? Also sent email. Thanks!,,2/24/2015 8:40,"Atlanta, GA",Eastern Time (US & Canada)
+4.67E+02,neutral,0.6396,,0,Southwest,,skiiim21,,0,@SouthwestAir is there a resource to check delays/Cancelled Flightlations out of Love Field? Flying out tomorrow am and stressed about weather! ❄️,,2/24/2015 7:35,Dallas ,Central Time (US & Canada)
+4.68E+02,negative,0.6926,Can't Tell,0.3673,Southwest,,ashjshannon,,0,@SouthwestAir would be great if I atleast was next to my husband who is flying in the same reservation,,2/24/2015 5:58,Detroit,Eastern Time (US & Canada)
+4.69E+02,negative,0.6843,Late Flight,0.6843,Southwest,,jlivingood,,0,@SouthwestAir Any ETD for SWA1004 from PHL? Appears delayed but no info available at gate.,"[39.87778809, -75.23663363]",2/24/2015 5:33,"Philadelphia, PA",Eastern Time (US & Canada)
+4.70E+02,negative,0.3587,Flight Attendant Complaints,0.3587,Southwest,,saysorrychris,,0,@SouthwestAir my bday was yesterday and my girl gave birth to my first born and I couldn't get a courtesy flight change from Lynn... THANKS!,,2/24/2015 5:23,Everywhere But Never Scared,Hawaii
+4.71E+02,negative,0.6932,Lost Luggage,0.6932,Southwest,,amymiller305,,0,@SouthwestAir I would like to ask that his bags be picked up at PIT &amp; taken to his hotel by the airport. Will someone contact me,,2/24/2015 4:33,South Florida ,
+4.72E+02,negative,0.6442,Can't Tell,0.6442,Southwest,,emayteeteej,,0,@SouthwestAir darn! I bought it on the wrong device! No way to switch I'm sure?,,2/24/2015 4:02,"Hopatcong, NJ",
+4.73E+02,positive,0.9657,,0,Southwest,positive,magmum03,,0,@SouthwestAir What an awesome flight Dallas 2 NY. Virgin America refused bc of my child's peanut allergy but u guys didn't. Thanks! 👍😊,,2/23/2015 19:42,ny,
+4.74E+02,negative,0.3499,Can't Tell,0.3499,Southwest,,sammyboy405,,0,@SouthwestAir your welcome. It was the thoughts of nearly the entire plane.,,2/23/2015 19:26,"Mustang, Oklahoma",
+4.75E+02,neutral,0.6504,,,Southwest,,Jgrozalsky,,0,@SouthwestAir will do - if you follow back I can DM that info,,2/23/2015 18:34,Boston,Eastern Time (US & Canada)
+4.76E+02,negative,0.7104,Damaged Luggage,0.7104,Southwest,,YALibLinds,,0,@SouthwestAir Kudos to bag handler at DTW gate 21 at 7:10 pm. Ran to keep bags from hitting ground in 9 degree temp! http://t.co/5tXU5tSFkJ,,2/23/2015 18:16,"Houston, TX",
+4.77E+02,neutral,0.6664,,0,Southwest,,MauLoaIkaika73,,0,@SouthwestAir @Imaginedragons I tried. 😔 It's okay,,2/23/2015 17:39,,Pacific Time (US & Canada)
+4.78E+02,neutral,0.6404,,,Southwest,,mcgheelane,,0,@SouthwestAir No monkey business we luv SWA!! #mdw2mci #homeandreadyfornexttrip http://t.co/2xJvUn66ZZ,"[39.64617884, -94.31618144]",2/23/2015 17:26,,
+4.79E+02,negative,0.6959,Can't Tell,0.3693,Southwest,,goodchrism,,0,@SouthwestAir The problem is apologies don't help. Results matter and it's proving impossible to find anyone who is interested in that.,,2/23/2015 14:17,"Boston, MA",Eastern Time (US & Canada)
+4.80E+02,negative,0.622,Can't Tell,0.3179,Southwest,,NikkiDan96,,0,@SouthwestAir do these scavenger hunt  locations have anything in common because I'm playing detective trying to figure out the one for ATL.,,2/23/2015 14:01,,
+4.81E+02,negative,0.6253,Can't Tell,0.3227,Southwest,,suzyyogi,,0,@SouthwestAir how about #destinationdragon tix for tonite for the inconvenience since I am not there to play scavenger hunt?,,2/23/2015 13:42,suburbs of Pittsburgh....,Quito
+4.82E+02,positive,0.6676,,0,Southwest,,KatePatay,,0,@SouthwestAir Your crew on 3138 is doing a great job of keeping everyone informed during the delays #givethemraises,"[39.50503682, -119.77382751]",2/23/2015 13:40,"Reno, NV",Alaska
+4.83E+02,neutral,0.3591,,0,Southwest,,bushnelloptics,,0,@SouthwestAir thanks!!,,2/23/2015 12:33,,
+4.84E+02,negative,0.692,Lost Luggage,0.692,Southwest,,HDsportsguy,,0,"@SouthwestAir @HDsportsguy yes I did. I hope for an update soon, need those clothes for a meeting tomorrow.",,2/23/2015 11:35,,
+4.85E+02,negative,0.6306,Lost Luggage,0.3227,Southwest,,IUallie,,0,@SouthwestAir yeah they're somewhere. Hopefully getting them back today. Just frustrated tweeting.,,2/23/2015 11:22,Bloomington/San Francisco,Pacific Time (US & Canada)
+4.86E+02,negative,0.7119,Customer Service Issue,0.7119,Southwest,,LukeWyckoff,,0,@SouthwestAir @LukeWyckoff: her name is Jane and she wanted was a call. 617-653-3040,,2/23/2015 8:23,"Denver, CO",Mountain Time (US & Canada)
+4.87E+02,neutral,0.6648,,,Southwest,,SaraAMartens,,0,@SouthwestAir thanks for linking to #Passbook. Might be old news but this is my first 2015 flight.,,2/23/2015 7:17,"Omaha, NE",Central Time (US & Canada)
+4.88E+02,negative,0.6817,Can't Tell,0.6817,Southwest,,ChrisSaysThis,,0,"@SouthwestAir, you're really going to let @delta and @virginamerica get the best of you? http://t.co/vUdWJm1lYB",,2/23/2015 7:04,"Boston, MA",Eastern Time (US & Canada)
+4.89E+02,positive,0.6675,,,Southwest,,Kateria_Nicole,,0,@SouthwestAir  Just sent DM. Thanks for your attentiveness to this matter.,,2/23/2015 6:21,"Atlanta, GA",Eastern Time (US & Canada)
+4.90E+02,neutral,0.7013,,0,Southwest,,erhone01,,0,"@SouthwestAir got an email confirmation of wifi purchase on a recent flight. Trouble is, I've never flown with you. Ever. #concerned #scam?",,2/23/2015 3:15,,New Caledonia
+4.91E+02,positive,0.7066,,0,Southwest,,bashomosko,,0,.@SouthwestAir Thx for the follow up. Just sent DM,,2/22/2015 20:22,"boulder, co",Pacific Time (US & Canada)
+4.92E+02,negative,0.3437,Flight Booking Problems,0.3437,Southwest,,ClinicPolly,,0,"@SouthwestAir thank you : 8UXZJ2
+Paid for early bird and sat in back",,2/22/2015 19:18,,
+4.93E+02,negative,0.704,Lost Luggage,0.3627,Southwest,,JoeCal94,,0,"@SouthwestAir I understand. But it's consistent, and been consistent for years. It's known around the country.",,2/22/2015 18:44,Chicago,Central Time (US & Canada)
+4.94E+02,negative,0.6555,Customer Service Issue,0.3429,Southwest,,AdCarp87,,0,@SouthwestAir please start flying to Huntsville so I never have to fly American Airlines again,,2/22/2015 18:17,"Chicago, IL",
+4.95E+02,neutral,0.6056,,0,Southwest,,MsNamri,,0,@SouthwestAir I have a child traveling cross country...she's 11 will be turning 12 in march...and (cont) http://t.co/Enh1keUUTd,,2/22/2015 18:07,"Las Vegas, NV",Pacific Time (US & Canada)
+4.96E+02,neutral,0.7132,,,Southwest,,momship510,,0,@SouthwestAir retiring with my hubby and it's our 25th wedding anniversary this year! Companion pass please!!,,2/22/2015 18:02,Bristol CT ,
+4.97E+02,positive,0.6536,,,Southwest,,happygirlvicki,,0,"@SouthwestAir beautiful view flying into San Jose, CA this evening http://t.co/SxVaGbRTlI",,2/22/2015 17:53,"Omaha, Nebraska",Central Time (US & Canada)
+4.98E+02,neutral,0.6314,,,Southwest,,sammijoos,,0,@SouthwestAir companion pass please!,,2/22/2015 17:35,"Ferndale, MI",
+4.99E+02,positive,0.6626,,,Southwest,,TNVOLINFL,,0,@SouthwestAir.   50th Anniversary on April 10th. Still. Sweethearts.  Companions.  Lifetime.  Sons.  Families. Love.,,2/22/2015 17:31,,
+5.00E+02,positive,0.6406,,0,Southwest,,seve12345,,0,@SouthwestAir thanks connection thru Nashville have A1 boarding pass get to Dallas gate boarding 40 min before flt get end of B group,,2/22/2015 15:47,,Quito
+5.01E+02,neutral,0.7012,,0,Southwest,,LetCourtRun,,0,@SouthwestAir How's Dallas incoming looking? I'm scheduled to fly in at 10:30 and wondering if I'll be stuck in St. Louis instead.,"[39.87875827, -75.23722854]",2/22/2015 15:10,,Central Time (US & Canada)
+5.02E+02,positive,0.6604,,,Southwest,,HybridMovementC,,0,@SouthwestAir  Mad love http://t.co/4ojrSDWPkK NYC-,,2/22/2015 13:06,"everywhere, all the time.",
+5.03E+02,neutral,0.6385,,0,Southwest,,MStudioFBA,,0,@SouthwestAir  Wish you allowed http://t.co/0pDNtGBXC6 to access you site for awards tracking.,,2/22/2015 12:44,USA,Mountain Time (US & Canada)
+5.04E+02,neutral,0.6397,,,Southwest,,hlirvine,,0,@SouthwestAir @TheAcademy party in #hotlanta http://t.co/x5ZQssJtRB,,2/22/2015 12:35,Brooklyn,Eastern Time (US & Canada)
+5.05E+02,negative,0.6822,Bad Flight,0.3485,Southwest,,TacoDangerous,,0,@SouthwestAir Boooo!!!!!!   Don't be like the other airlines!!  http://t.co/WHAGPknnLF,,2/22/2015 11:54,"Two Guns, Arizona",Central Time (US & Canada)
+5.06E+02,negative,0.6078,Bad Flight,0.6078,Southwest,,TheDarrenHickey,,0,@SouthwestAir here's a first..both pilot and first officer in galley during flight...,,2/22/2015 10:56,Indianapolis,Eastern Time (US & Canada)
+5.07E+02,neutral,0.3491,,0,Southwest,,Million_Miler,,0,"@SouthwestAir BTW, not a weather delay. We've had beautiful weather in Sunny California. #nolove #noexcuses #cali http://t.co/kumtbgER03",,2/22/2015 10:00,,
+5.08E+02,neutral,0.6739,,0,Southwest,,BratsyAnn,,0,@SouthwestAir Can you give me info on Flt 681 out of BDL? I see it's Cancelled Flightled.,,2/22/2015 5:16,"Gloucester, MA",Eastern Time (US & Canada)
+5.09E+02,negative,0.648,Cancelled Flight,0.648,Southwest,,JayWogi,,0,@SouthwestAir my flight was Cancelled Flighted for tomorrow and hold times are long can I Cancelled Flight a leg with you?,,2/21/2015 19:15,"Houston, Texas",Central Time (US & Canada)
+5.10E+02,positive,0.6519,,0,Southwest,,puertotexan,,0,@SouthwestAir Yes! Just a few minutes after my tweet. She was able to reschedule her flight. Thanks!,,2/21/2015 16:29,"Houston, Texas",
+5.11E+02,neutral,0.6917,,0,Southwest,,YahooSchwab,,0,@SouthwestAir I actually could use a slight tweak to my return - not leaving here now til Monday -any way I can skip calling for that?,,2/21/2015 12:04,Denver,Mountain Time (US & Canada)
+5.12E+02,neutral,0.6766,,,Southwest,,KyleFogg82,,0,@SouthwestAir fortunately didn't have to. The flight took off on time.,,2/21/2015 11:50,"Indianapolis, IN",Atlantic Time (Canada)
+5.13E+02,negative,0.6123,Cancelled Flight,0.6123,Southwest,,bullman29,,0,@SouthwestAir flight just Cancelled Flighted. Can you help me rebook?,,2/21/2015 11:01,"Washington, DC",Eastern Time (US & Canada)
+5.14E+02,neutral,0.6609,,0,Southwest,,scunning16,,0,@SouthwestAir Can I book a flight on my own and get reimbursed by you?,,2/21/2015 6:34,Ohio,
+5.15E+02,neutral,0.6269,,,Southwest,,MichelleMSmart,,0,@SouthwestAir flt 3260 out of mht. Have fun with my kids and grandkids 10 of them!!  Jack says hi! http://t.co/BHOOiyT6ZQ,,2/21/2015 4:02,,Eastern Time (US & Canada)
+5.16E+02,negative,0.6789,Customer Service Issue,0.36,Southwest,,RawTravelTV,,0,@SouthwestAir apologies help. Would have been nice had supvsr. Sally in CLE offered one. Not usual gr8 southwest customer service I love,,2/21/2015 3:40,New York City,Eastern Time (US & Canada)
+5.17E+02,neutral,0.7172,,0,Southwest,,hivethrive,,0,@SouthwestAir Salted or honey roasted? I vote to bring back the salted peanuts. I dread a year of the honey roasted!😖 http://t.co/RHw78ktQFO,,2/20/2015 20:19,,
+5.18E+02,negative,0.6602,Cancelled Flight,0.6602,Southwest,,LukeGUlrich,,0,@SouthwestAir can you help me with reFlight Booking Problems? My flight was Cancelled Flighted. FWHEI6,"[41.30204773, -95.9002533]",2/20/2015 17:29,"Omaha, NE",Central Time (US & Canada)
+5.19E+02,negative,0.3763,Flight Booking Problems,0.3763,Southwest,,MitchHamilton,,0,@SouthwestAir when will airfare be available through December of this year? I have 2 major trips coming up and I'm anxious to book them!,,2/20/2015 17:20,Chicago,Central Time (US & Canada)
+5.20E+02,neutral,0.6447,,0,Southwest,,NicoleAndreas,,0,@SouthwestAir how can customers get in touch with you internationally from Mexico for lost baggage,,2/20/2015 16:26,"Austin, TX",Eastern Time (US & Canada)
+5.21E+02,neutral,0.3384,,0,Southwest,,FuyukaiDesuYo,,0,@SouthwestAir I need Imagine Dragons like I need air..... PLEASE HOOM ME UP FOR THE VEGAS SHOW ( ͡° ͜ʖ ͡°),,2/20/2015 15:20,,
+5.22E+02,neutral,0.624,,,Southwest,,Normthompsonsr,,0,@SouthwestAir  when is the next flight with free cocktails ?,,2/20/2015 11:52,yuma az,Eastern Time (US & Canada)
+5.23E+02,positive,0.7025,,,Southwest,,lichelle75,,0,@SouthwestAir  Please Help. We really want to fly with you. #guessweflyingdelta,,2/20/2015 11:05,,
+5.24E+02,negative,0.6285,Cancelled Flight,0.6285,Southwest,,sdkstl,,0,@SouthwestAir huge problem with someone whose ticket was Cancelled Flighted mid trip. Can you DM?,,2/20/2015 10:50,"University City, MO",
+5.25E+02,neutral,0.6759,,,Southwest,,mr_deals805,,0,@SouthwestAir so the fares I see for flights in fall are the ABSOULUTELY LOWEST they will be?,,2/20/2015 10:15,,Arizona
+5.26E+02,positive,0.3612,,0,Southwest,,Muirkat_23,,0,@SouthwestAir Deborah helped me💁,,2/20/2015 9:22,,
+5.27E+02,neutral,0.7046,,,Southwest,,matthewhirsch,,0,@SouthwestAir Thanks! I know the routes you currently have from Newark. I was just wondering if there was any new ones on the horizon,,2/20/2015 8:23,"Hoboken, NJ",Eastern Time (US & Canada)
+5.28E+02,negative,0.7128,Customer Service Issue,0.3723,Southwest,,pjfuller,,0,"@SouthwestAir After flying Delta this week, GoGo was so good. The tweet I sent you didn't even send until we landed - that's how bad it was",,2/20/2015 7:02,10 Miles South of Nowhere,Central Time (US & Canada)
+5.29E+02,positive,0.3685,,0,Southwest,,carlostopeca,,0,@SouthwestAir save mile to visit family in 2015 and this will impact how many times I can see my mother.  I planned and you change the rules,,2/20/2015 6:49,,
+5.30E+02,neutral,0.3389,,0,Southwest,,wagneraj,,0,"@SouthwestAir yes, thank you. Just sent DM.",,2/20/2015 6:37,,
+5.31E+02,neutral,0.6426,,0,Southwest,,patrickisarobot,,0,@SouthwestAir I would love to go to the #DestinationDragons @ImagineDragons show tomorrow in Utah at @VelourLive! I've been trying so hard.,,2/20/2015 5:47,In my mind,Mountain Time (US & Canada)
+5.32E+02,neutral,0.6284,,0,Southwest,,Kay2run,,0,"@SouthwestAir Hi! Winter Wx Advisory issued for STL. Snow &amp; Ice &amp; Cold, oh my! Will you issue a travel advisory for that?",,2/20/2015 4:45,St. Louis,Central Time (US & Canada)
+5.33E+02,neutral,0.6974,,,Southwest,,linkster93,,0,@SouthwestAir would love to win tickets and take my son to Imagine Dragons in Provo Saturday night.  Crossed fingers. #DestinationDragons,,2/19/2015 22:30,,
+5.34E+02,negative,0.691,Customer Service Issue,0.348,Southwest,,geekstiel,,0,"@SouthwestAir it'd be nice if I could get an answer, even a simple ""no"" would do; I just want to know. :)",,2/19/2015 18:20,,Atlantic Time (Canada)
+5.35E+02,negative,0.9658,Bad Flight,0.6623,Southwest,negative,abyrley,Bad Flight,1,@SouthwestAir please do something about the speed of your WiFi connections on your planes.  It might as well be non-existent.,,2/19/2015 17:24,"Raleigh, NC",
+5.36E+02,positive,0.6344,,0,Southwest,,ksteinkamp,,0,@SouthwestAir Your crew on 4028 tonight was outstanding. God bless them and the medically trained passengers on board.,,2/19/2015 17:16,Iowa,Central Time (US & Canada)
+5.37E+02,negative,0.6603,Can't Tell,0.6603,Southwest,,looselydraped,,0,@SouthwestAir Weather seriously cannot even be the only excuse at this point because it was awful service in the summer too. Over it.,,2/19/2015 17:10,,Central Time (US & Canada)
+5.38E+02,positive,0.6819,,,Southwest,,itsjessme_,,0,"@SouthwestAir Sorry to spam, it would just be so awesome to see @Imaginedragons in Vegas. Your help would be absolutely amazing.",,2/19/2015 16:26,,Alaska
+5.39E+02,positive,0.3708,,0,Southwest,,campnhike75,,0,@SouthwestAir :( Thanks for the opportunity...,,2/19/2015 14:47,indiana,Hawaii
+5.40E+02,positive,0.6155,,0,Southwest,,MaryWallYall,,0,"@SouthwestAir I'm excited too, but perhaps you could scale your excitement back by a few weeks...",,2/19/2015 14:11,Chicago,Central Time (US & Canada)
+5.41E+02,positive,0.6607,,,Southwest,,livvyports16,,1,@SouthwestAir me &amp; @sammi_jon3s are best friends because of @Imaginedragons. Any chance we could get tickets to #DestinationDragons ?,,2/19/2015 14:02,,
+5.42E+02,neutral,0.6313,,,Southwest,,toscanoraul,,0,@SouthwestAir please please please choose me to go see @Imaginedragons   #DestinationDragons,,2/19/2015 8:15,,Pacific Time (US & Canada)
+5.43E+02,positive,0.644,,,Southwest,,32432tee,,0,@SouthwestAir Hi Guys good morning how are you doing,,2/19/2015 7:37,pittsburgh pa,Eastern Time (US & Canada)
+5.44E+02,neutral,0.6824,,,Southwest,,thirty_lives,,0,@SouthwestAir I've been a fan of imagine dragons since 2012 and they're my fave band and #DestinationDragons is during my bday can I get tix,,2/19/2015 7:17,ʞᴚoʎ   ʍǝu,Eastern Time (US & Canada)
+5.45E+02,neutral,0.7039,,0,Southwest,,jlittle100,,0,@SouthwestAir Please bring back RDU to FLL direct route!  I noticed it is missing starting in Late Flight August!  The flights are always packed!,,2/19/2015 7:11,,
+5.46E+02,positive,0.7005,,0,Southwest,,brycezapped,,0,@SouthwestAir we're here at MCO. Thanks.,,2/19/2015 6:15,,
+5.47E+02,neutral,0.3624,,0,Southwest,,tarunsehgal1986,,0,@SouthwestAir hilarious flight attendants on Vegas to Detroit tonight http://t.co/nw7vx7DGMF,,2/18/2015 22:23,,
+5.48E+02,neutral,0.7218,,0,Southwest,,podunculus,,0,@SouthwestAir any chance I can get tix for @VelourLive @Imaginedragons? I have been tweeting since January 26 about it #DestinationDragons,,2/18/2015 20:36,,
+5.49E+02,negative,0.702,Late Flight,0.702,Southwest,,aryehmon,,0,@SouthwestAir sat on a plane for 2+ hrs on 2/15! Then we finally took off.. :(,,2/18/2015 18:41,,
+5.50E+02,neutral,0.6518,,,Southwest,,bsrubin,,0,"@SouthwestAir Looks like 'On February 19, 2015, we will open our schedule for sale through October 30, 2015' - know what time that will be?",,2/18/2015 17:47,"Boston, MA",Eastern Time (US & Canada)
+5.51E+02,negative,0.7033,Customer Service Issue,0.7033,Southwest,,Galanthusn,,0,"@SouthwestAir could care more about their customer, if there is a reasonable request :(",,2/18/2015 17:28,,
+5.52E+02,neutral,0.6879,,0,Southwest,,ericcox122685,,0,@SouthwestAir I will be writing in about the service via email. My company also transports well over 100 clients monthly via SW.,,2/18/2015 16:22,,Central Time (US & Canada)
+5.53E+02,negative,0.697,Bad Flight,0.697,Southwest,,DcRealityPunch,,0,"@SouthwestAir My flight was 952, leaving las vegas at 5:40pm, arriving at CHI-MID at 11:00 pm.",,2/18/2015 15:51,,Hawaii
+5.54E+02,positive,0.6867,,,Southwest,,dalyrt5,,0,"@SouthwestAir @Imaginedragons @beatsmusic well timed tweet, just boarded and will be listening on my way home!",,2/18/2015 14:48,"Nashville, TN",Arizona
+5.55E+02,negative,0.709,Bad Flight,0.3641,Southwest,,anne_laflamme,,0,"@SouthwestAir alas, it was pretty full so we had to entertain ourselves with witty repartee ...",,2/18/2015 14:21,,Pacific Time (US & Canada)
+5.56E+02,negative,0.6463,Can't Tell,0.3316,Southwest,,natedlee,,0,@SouthwestAir TSA Pre isn't showing up on my boarding passes and I've followed all of the steps. Please help.,,2/18/2015 12:55,D.C. Metro Area,Eastern Time (US & Canada)
+5.57E+02,neutral,0.6399,,,Southwest,,ejdicki,,0,@SouthwestAir 8FKQW is the conf #. Thanks for the reply,,2/18/2015 11:41,"Dallas, TX",Central Time (US & Canada)
+5.58E+02,neutral,0.3353,,0,Southwest,,VegasRenegade,,1,@SouthwestAir All Flights lead to VEGAS BABY!,,2/18/2015 8:59,The Wild Blue Yonder,Atlantic Time (Canada)
+5.59E+02,positive,0.6573,,,Southwest,,ChrisWinn211,,0,@SouthwestAir Thank you!,,2/18/2015 6:48,"Worcester, MA ",Eastern Time (US & Canada)
+5.60E+02,neutral,0.3727,,0,Southwest,,kd35ftw1,,0,@SouthwestAir Not possible to carry-on and put in a closet/overhead? Had success doing that with other airlines. Thanks,,2/18/2015 5:21,,
+5.61E+02,positive,0.3356,,0,Southwest,,CourtSnod,,0,@SouthwestAir de-icing is important!,,2/18/2015 4:44,Tennessee Original,Central Time (US & Canada)
+5.62E+02,neutral,0.7023,,,Southwest,,oldrelic007,,0,@SouthwestAir any delays today @CAKairport to Orlando?,,2/18/2015 4:29,,America/New_York
+5.63E+02,positive,0.3634,,0,Southwest,,icehousepenguin,,0,@SouthwestAir hot stewardess flipped me off,,2/17/2015 20:39,"Roseville, California",
+5.64E+02,negative,0.6948,Can't Tell,0.3522,Southwest,,joycarmody,,0,@SouthwestAir not very helpful trying to get out of Nashville.Should waive change fee for 2/18.,,2/17/2015 18:01,Tampa,
+5.65E+02,negative,0.6224,Customer Service Issue,0.6224,Southwest,,scottglass70,,0,"@SouthwestAir no, thanks. I think we have it straight!",,2/17/2015 15:49,"Midlothian, Virginia",
+5.66E+02,negative,0.6693,Flight Booking Problems,0.3496,Southwest,,ursonate,,0,"@SouthwestAir bos to msp, msp to aus, aus to bos. Site doesn't seem to display fields for the middle trip when I add the 3rd.",,2/17/2015 15:38,"boston, ma",Eastern Time (US & Canada)
+5.67E+02,positive,0.3474,,0,Southwest,,Its_Afton,,0,@SouthwestAir No worries at all!!! I would rather be safe on the ground than take any chances. Yes! Tomorrow AM if BNA reopens ☺️,,2/17/2015 14:18,"Nashville, TN",Eastern Time (US & Canada)
+5.68E+02,negative,0.9277,Customer Service Issue,0.4821,Southwest,negative,scatignani,"Cancelled Flight
+Customer Service Issue",0,@SouthwestAir I never got a Cancelled Flightlation text from this morning either #bushleague or a number to call #weakservice,,2/17/2015 13:39,Nashville Tennessee,Eastern Time (US & Canada)
+5.69E+02,neutral,0.6277,,,Southwest,,elianak27,,1,@SouthwestAir employees spreading a bit of #MardiGras cheer at 7:30 this morning in Atlanta  #NFTYConvention http://t.co/ttbtY89Ilo,,2/17/2015 12:30,,
+5.70E+02,negative,0.6716,Cancelled Flight,0.6716,Southwest,,OnyxMediagroup1,,0,@SouthwestAir my flight was Cancelled Flightled Monday.  Just looking to Cancelled Flight and credit my card.  That's all.,,2/17/2015 12:24,USA,Eastern Time (US & Canada)
+5.71E+02,negative,0.3883,Can't Tell,0.3883,Southwest,,leahennessy,,0,@SouthwestAir please PM me the number where I can lodge formal complaints. Thx,,2/17/2015 11:24,"Cambridge, MA",
+5.72E+02,neutral,0.6689,,,Southwest,,fleur_de_chic,,0,"@SouthwestAir just did, thank you",,2/17/2015 11:18,212 by way of the 504.,
+5.73E+02,neutral,0.6662,,0,Southwest,,maitlande,,0,@SouthwestAir I absolutely will. Where can I send it?,,2/17/2015 10:36,"Boston, MA",Eastern Time (US & Canada)
+5.74E+02,negative,0.6439,Customer Service Issue,0.6439,Southwest,,dallendoug,,0,"@SouthwestAir the person I talked to couldn't do anything not normally available online other than the ""no charge"" part.",,2/17/2015 10:28,Washington DC,
+5.75E+02,negative,0.9594,Customer Service Issue,0.9594,Southwest,negative,bdhatch1,Customer Service Issue,0,@SouthwestAir please send me a number to call to talk to a person and not be put on hold,,2/17/2015 10:24,,Eastern Time (US & Canada)
+5.76E+02,neutral,0.6785,,,Southwest,,challemann,,0,"@SouthwestAir Got it, thanks. Any insight into what will happen tomorrow?",,2/17/2015 9:08,New York,Eastern Time (US & Canada)
+5.77E+02,positive,0.6834,,,Southwest,,christooma,,0,@SouthwestAir finally!,,2/17/2015 8:31,"Nashville, TN",Central Time (US & Canada)
+5.78E+02,neutral,0.9633,,0,Southwest,neutral,RachFee,,0,@southwestair - kind of early but any idea when dates through the first week of sept will come available?,,2/17/2015 8:11,"London, Ontario, Canada",Central Time (US & Canada)
+5.79E+02,positive,0.6469,,,Delta,,jaxbra,,0,"@JetBlue Yesterday on my way from EWR to FLL just after take-off. :)
+#wheelsup #JetBlueSoFly http://t.co/9xkiy0Kq2j",,2/24/2015 11:48,"east brunswick, nj",Atlantic Time (Canada)
+5.80E+02,neutral,0.6472,,0,Delta,,culinarymindz,,0,"@JetBlue update on Flight 462 would be appreciated when you have time, thanks",,2/24/2015 11:31,,
+5.81E+02,negative,0.6913,Flight Attendant Complaints,0.3499,Delta,,chuck_martin,,0,@JetBlue ’s Marty St. George really has zero clue. How does he still have a job? #nobaggagefees http://t.co/tjDzaMHPEw,,2/24/2015 11:01,SF Bay Area,Pacific Time (US & Canada)
+5.82E+02,negative,0.6521,Lost Luggage,0.6521,Delta,,djcheros,,0,@JetBlue DONT LOSE MY LUGGAGE!!!,,2/23/2015 19:15,"Portland, Maine",Eastern Time (US & Canada)
+5.83E+02,negative,0.3523,Can't Tell,0.3523,Delta,,borywrites,,0,See what you started now @nytimes RT @JetBlue: Our fleet's on fleek. http://t.co/atd2Sm8HF4,,2/23/2015 18:08,The Bronx || Inwood,Eastern Time (US & Canada)
+5.84E+02,negative,0.6751,Can't Tell,0.6751,Delta,,rabonour,,0,"Social agencies, this is why we can't have nice things. @JetBlue: Our fleet's on fleek. http://t.co/QRxz0bGbtq",,2/23/2015 15:26,"Brooklyn, NY",Eastern Time (US & Canada)
+5.85E+02,negative,0.3598,Can't Tell,0.3598,Delta,,KvnLawrence11,,0,“@JetBlue: Our fleet's on fleek. http://t.co/7iM9rHIvyR” Plz stop,,2/23/2015 15:11,Connecticut,Central Time (US & Canada)
+5.86E+02,neutral,0.6909,,,Delta,,BritishAirNews,,0,@JetBlue's CEO battles to appease passengers and Wall Street - Waterbury Republican American http://t.co/fW3cy8HGdJ,,2/23/2015 13:50,UK,Sydney
+5.87E+02,negative,0.3707,Customer Service Issue,0.3707,Delta,,BKWIL,,0,@JetBlue received a voucher but if you want to improve relations be up front with passengers.,,2/23/2015 13:48,"Brooklyn, NY",Eastern Time (US & Canada)
+5.88E+02,neutral,0.3488,,0,Delta,,Alovepoet,,0,“@JetBlue: Our fleet's on fleek. http://t.co/pr3OeBC2N2” lol wut?,,2/23/2015 12:45,CA/NJ,Pacific Time (US & Canada)
+5.89E+02,negative,0.6503,Can't Tell,0.6503,Delta,,GRIFFthePIFF,,0,This shits gotta stop RT @JetBlue: Our fleet's on fleek. http://t.co/PEQ90pqMpp,,2/23/2015 11:55,"Poughkeepsie,NY-Manayunk,PA",Quito
+5.90E+02,positive,0.383,,0,Delta,,CantBeJohn,,0,Power Moves RT @JetBlue: Our fleet's on fleek. http://t.co/t9s68korSN,,2/23/2015 11:51,,Eastern Time (US & Canada)
+5.91E+02,positive,0.7124,,,Delta,,JsLife23,,0,@JetBlue toss this ticket...it's great PR and I'm sure every college student following me will be willing to rock out wit too 👀👀,,2/23/2015 11:16,,
+5.92E+02,neutral,0.6338,,,Delta,,BizTravelerNA,,0,❤️❤️❤️“@JetBlue: Our fleet's on fleek. http://t.co/UHUmAskLdv”,,2/23/2015 10:47,,Eastern Time (US & Canada)
+5.93E+02,neutral,0.6462,,,Delta,,MOJOxJOJO69,,0,“@JetBlue: Our fleet's on fleek. http://t.co/mFSsh2UHUe” LMFAO!!!!!!!!!!,,2/23/2015 10:27,,Pacific Time (US & Canada)
+5.94E+02,negative,0.7102,Can't Tell,0.7102,Delta,,DEdzJr,,0,Why? 😒 RT @JetBlue Our fleet's on fleek. http://t.co/I7Ut2ZvHCO,,2/23/2015 10:23,KCMO - University of Missouri ,Central Time (US & Canada)
+5.95E+02,negative,0.3477,Bad Flight,0.3477,Delta,,GoBobbo,,0,nope. RT @JetBlue: Our fleet's on fleek. http://t.co/9SHhTvIOTI,,2/23/2015 10:20,Pittsburgh — now & forever,Central Time (US & Canada)
+5.96E+02,neutral,0.6486,,,Delta,,stim8rinme,,0,@JetBlue Thanks.,,2/23/2015 8:43,"Auburn, ME",
+5.97E+02,neutral,0.6836,,0,Delta,,jabeblanchard,,0,"@JetBlue sorry, should have specified I meant ground traffic trying to get into the terminal","[40.64682076, -73.7823236]",2/22/2015 20:19,Right Coast,Eastern Time (US & Canada)
+5.98E+02,positive,0.6407,,,Delta,,jennielin,,0,"@JetBlue aha, ok. Thanks! Was worried there might not be a seat at all :) Will do it at the airport tomorrow then!",,2/22/2015 16:46,"San Francisco, CA",Pacific Time (US & Canada)
+5.99E+02,negative,0.6102,Late Flight,0.6102,Delta,,cwolicki,,0,@JetBlue thanks for the update. 'Preciate it. Hope it gets here. Been delayed 2 days getting back,,2/22/2015 15:50,Boston,Eastern Time (US & Canada)
+6.00E+02,positive,0.3715,,0,Delta,,rambinasaurus,,0,@JetBlue cool! Are there stairs at JFK? I can walk short distances but not stairs.,,2/22/2015 14:50,,Atlantic Time (Canada)
+6.01E+02,neutral,0.6427,,,Delta,,ChrisDonahoe,,0,@JetBlue the fact that #ChrisHasMadeUsBLUSH isn't trending is how you know I'm loyal ;),,2/22/2015 14:02,"Washington, D.C.",Quito
+6.02E+02,negative,0.6728,Customer Service Issue,0.6728,Delta,,KevinDwan,,0,@JetBlue just a very rude rep while trying to book family vacation using trvl credit. on phone w/ new rep now who is being very helpful,,2/22/2015 8:25,,
+6.03E+02,negative,0.3485,Customer Service Issue,0.3485,Delta,,calvinsavanna,,0,@JetBlue I'm also a mosaic customer and fly jet blue ALOT....,,2/22/2015 8:00,"Naples, FL, Boston, MA",
+6.04E+02,negative,0.6935,Can't Tell,0.3586,Delta,,BannMen,,0,@JetBlue we need an ETA please,,2/22/2015 5:52,,Quito
+6.05E+02,negative,0.3723,Late Flight,0.3723,Delta,,skydivingblond,,0,"@JetBlue  thanks for response! Crew has been VERY patient with us, but they are also frustrated. Wouldn't be so bad but airport is closed!",,2/21/2015 19:51,new york,
+6.06E+02,neutral,0.3711,,0,Delta,,zarrylarou,,0,@JetBlue Tomorrow wouldn’t have been soon enough! Thank you for the info!,,2/21/2015 17:20,NY,Eastern Time (US & Canada)
+6.07E+02,positive,0.693,,,Delta,,ejhart6,,0,"@JetBlue Thanks. Still booked our trip 3/13-17 LB to SLC to see grand kids.  Just very frustrating. Tried app, web, etc. Still love u guys!",,2/21/2015 11:55,"Fullerton, CA",
+6.08E+02,negative,0.3898,Can't Tell,0.3898,Delta,,benjaminokeefe,,0,“@JetBlue: @benjaminokeefe Thanks for including us on your tour! Did you pack your winter coat?”Unfortunately yes ❄️⛄️ #WereNotinCaliAnymore,,2/21/2015 5:29,,Eastern Time (US & Canada)
+6.09E+02,positive,0.6394,,,Delta,,mutantgatto,,0,@JetBlue word thanks,,2/21/2015 3:08,ravioli,Eastern Time (US & Canada)
+6.10E+02,negative,0.674,Late Flight,0.674,Delta,,chelseylamwatt,,0,"@JetBlue It's not ideal, but it's okay. Better Late Flight than never! :)",,2/21/2015 1:31,"New York, NY | Orlando, FL",Eastern Time (US & Canada)
+6.11E+02,neutral,0.3602,,0,Delta,,jmoalmawali,,0,@JetBlue thanks anyways @SouthwestAir has my back! Awesome rate &amp; amazing customer service #nomoreaggravation,,2/20/2015 21:32,Boston,
+6.12E+02,neutral,0.3363,,0,Delta,,KoolieAshSays,,0,@JetBlue oh. Makes sense. My bad.,"[40.88529232, -73.856635]",2/20/2015 20:41,"ÜT: 17.9889591,-76.7712636",Pacific Time (US & Canada)
+6.13E+02,positive,0.7263,,,Delta,,TumbaSherman,,0,@JetBlue thanks! I'll do it.,,2/20/2015 20:00,Ft. Lauderdale,Eastern Time (US & Canada)
+6.14E+02,negative,0.3537,Late Flight,0.3537,Delta,,TraveLifeLove,,0,Made it to #Costa #Rica and back @JetBlue Missing it already!  #Pura #Vida!,,2/20/2015 18:21,The World,Eastern Time (US & Canada)
+6.15E+02,positive,0.632,,0,Delta,,innovatefitnow,,0,@JetBlue saved the day:) @Expedia lost a costumer #jetblue #makingthingseasy #feelbetter,,2/20/2015 18:07,,
+6.16E+02,neutral,0.7088,,,Delta,,Rowe0neTen,,0,@JetBlue y'all got prices for the low??,,2/20/2015 14:51,South jamaica.. Queens,Pacific Time (US & Canada)
+6.17E+02,positive,0.7153,,,Delta,,GuidanceGirlEm,,0,@JetBlue he loved the #natural #beefjerky snacks😉,,2/20/2015 13:42,"New York, New York",Central Time (US & Canada)
+6.18E+02,neutral,0.6332,,,Delta,,heykaradoyle,,0,@JetBlue you know it!!,,2/20/2015 12:55,New York-Florida,Eastern Time (US & Canada)
+6.19E+02,neutral,0.6411,,0,Delta,,moneyries,,0,@JetBlue dang. Pandora? Does it look like it may get pushed back more or is this likely it?,,2/20/2015 12:00,"Brooklyn, NY",Eastern Time (US & Canada)
+6.20E+02,negative,0.7018,Late Flight,0.7018,Delta,,islandershf,,0,@JetBlue what is the reason for the delay,,2/20/2015 11:23,,Eastern Time (US & Canada)
+6.21E+02,neutral,0.6295,,,Delta,,SMHillman,,0,@JetBlue #AfterAll indeed! https://t.co/swWhYhEn76 #LoveSongFriday #Cheesy #80sweresomuchfun #BrandLoveAffair,,2/20/2015 11:12,"New York, NY",Eastern Time (US & Canada)
+6.22E+02,neutral,0.6387,,,Delta,,JetBlueNews,,0,@JetBlue Airways Hits New 12-Month High at $17.58 (JBLU) - WKRB News http://t.co/XvBjCzlMDA,,2/20/2015 2:05,USA,Sydney
+6.23E+02,negative,0.6242,Cancelled Flight,0.6242,Delta,,paupaucda,,0,@JetBlue it's ok. Things happen. Just very frustrated when you have to change your schedule. See you tomorrow for a new rescheduled flight.,,2/19/2015 23:50,,Pacific Time (US & Canada)
+6.24E+02,negative,0.373,Bad Flight,0.373,Delta,,mdrachler33,,1,@JetBlue why do you have every channel but @ABCNetwork How are @kgonzales89 and I supposed to watch Scandal? But free FlyFi is sweet!,,2/19/2015 20:22,,
+6.25E+02,neutral,0.7245,,0,Delta,,dcooode,,0,@JetBlue Flight I want to book was $320 one day; went to purchase next day &amp; price doubled to $737. Inquiring on chance it may go down?,,2/19/2015 15:33,,
+6.26E+02,positive,0.3373,,0,Delta,,MikewDickman,,0,@JetBlue Crisis averted! Flight #69 from BOS to FLL is boarding. Let's hope the new pilots aren't Clarence Oveur and Roger Murdock. :-),,2/19/2015 12:35,South Florida,
+6.27E+02,negative,0.6201,Can't Tell,0.6201,Delta,,ZKatcher,,0,@JetBlue i am here - what is your resolution?,"[0.0, 0.0]",2/19/2015 7:43,"Washington, DC",Eastern Time (US & Canada)
+6.28E+02,neutral,0.6645,,,Delta,,klorbe,,0,@JetBlue  I would go back to Aruba. I flew out of JFK. #bestplanesever #bestflightever,,2/19/2015 6:12,,
+6.29E+02,positive,0.6999,,,Delta,,itzryyo,,0,"@JetBlue btw, her name was Samantha and she won over everyone on the flight","[0.0, 0.0]",2/18/2015 18:50,,Eastern Time (US & Canada)
+6.30E+02,positive,0.7052,,,Delta,,JunkyardFiegs,,0,"@JetBlue if I tell you I like that @warriors pick, will that get me that bump to first class? :)",,2/18/2015 16:28,,Central Time (US & Canada)
+6.31E+02,neutral,0.3592,,0,Delta,,Bink_V,,0,@JetBlue I'd go to Australia to enjoy the land down under! Always been on my bucket list! #FlyingItForward,,2/18/2015 15:30,"Washingon, DC",Eastern Time (US & Canada)
+6.32E+02,neutral,0.6865,,,Delta,,selirodz,,0,@JetBlue do you sell open tickets? I have a sick relative and may have to travel at a moments notice. Sad but true.,,2/18/2015 14:44,"South Miami Heights, Florida",Eastern Time (US & Canada)
+6.33E+02,neutral,0.3502,,0,Delta,,thedanband,,0,@JetBlue this feels nice - what we've got going on here. Let's just swap me out with the fool in 5a and we can make it all better.,,2/18/2015 13:07,New York City,Pacific Time (US & Canada)
+6.34E+02,neutral,0.3661,,0,Delta,,Gailliag,,0,@JetBlue Thanks for the FB. message telling me I will have to wait between 1-3 days.  I'm waiting.,,2/18/2015 12:09,,Central Time (US & Canada)
+6.35E+02,negative,0.6391,Customer Service Issue,0.3503,Delta,,AlwaysTicosGirl,,0,@JetBlue @Cinnabon the two of you should team up to serve cinnabons on the flights!!!! #BonsInTheSky,,2/18/2015 8:06,New York City,Eastern Time (US & Canada)
+6.36E+02,negative,0.6154,Customer Service Issue,0.3187,Delta,,ChicDisheveled,,0,"@JetBlue shout out to the crew on flight 89 headed back to the big apple, they kept my glass half full the whole flight! #jetbluejfk","[32.73130971, -117.20222555]",2/17/2015 20:29,"San Diego, CA",Arizona
+6.37E+02,negative,0.6341,Late Flight,0.6341,Delta,,luisauraalvarez,,0,@JetBlue @EllaHenderson the highlight of being delayed #freeconcert,,2/17/2015 14:49,❤,Eastern Time (US & Canada)
+6.38E+02,neutral,0.6377,,,Delta,,ToriThatMexican,,0,@JetBlue I applied for a job at PDW where could I go for follow up. I'd really love the job #ilovejetblue,"[46.16788404, -122.96673513]",2/17/2015 12:19,pnw,Arizona
+6.39E+02,neutral,0.3686,,0,Delta,,Vinny_Espinosa,,0,"@JetBlue unfortunately no, but hoping I can catch one sometime in the near future!",,2/17/2015 9:20,San Francisco,Pacific Time (US & Canada)
+6.40E+02,negative,0.7201,Customer Service Issue,0.7201,Delta,,Darshan7Patel,,0,@JetBlue please provide me your direct email for me to explain.,,2/17/2015 8:19,,
+6.41E+02,neutral,0.6329,,0,US Airways,,oscarmichv,,0,"@USAirways I forgot my password and I don't know if my username is correct, and i want to use my miles, what i have to do??",,2/24/2015 10:53,Facebook: BÚFALOS F.C.,
+6.42E+02,negative,0.6656,Lost Luggage,0.6656,US Airways,,tuneday,,0,@USAirways - 800# referred me back to baggage services but I left the airport. I was on seat 17A,,2/24/2015 9:32,"Philadelphia, PA",
+6.43E+02,positive,0.3782,,0,US Airways,,david_drhealey,,0,@USAirways see you on board tomorrow,,2/24/2015 7:15,"Central, New Jersey",Hawaii
+6.44E+02,neutral,0.6326,,0,US Airways,,NicoleCarmellaF,,0,@USAirways can i please have someone call me 781 879 4505,,2/24/2015 5:50,,
+6.45E+02,neutral,0.3872,,0,US Airways,,Wheres_Papi,,0,@USAirways Thanks for getting back to me. I called that number earlier but no option to leave vm and just rings with busy tone,,2/23/2015 18:55,USA,Eastern Time (US & Canada)
+6.46E+02,positive,0.3709,,0,US Airways,,kiasuchick,,0,@USAirways @AmericanAir Can you bring guinea pigs in small pet carrier onboard your flights?,,2/23/2015 17:47,"Los Angeles, CA",Pacific Time (US & Canada)
+6.47E+02,positive,0.6283,,,US Airways,,joyadventuremom,,0,@USAirways I'll check it out when I get to the airport. Thanks.,,2/23/2015 14:03,,
+6.48E+02,positive,0.3503,,0,US Airways,,KateDeLeal,,0,@USAirways owes Tammy from the Winston-Salem call center for keeping me as a customer!,,2/23/2015 13:17,,
+6.49E+02,neutral,0.6187,,0,US Airways,,thomashoward88,,0,"@USAirways US 728. Refuel; we've sat for so long. Pilot announces where the truck is. ""Look, over there to the left!"" Actual announcement.",,2/23/2015 11:49,,
+6.50E+02,negative,0.967,Can't Tell,0.8042,US Airways,negative,mydulcebella,Can't Tell,1,@USAirways / @AmericanAir don't forget without your customers you would be out of business! #epicfail #usairwaysfail,,2/23/2015 9:12,Pennsylvania,Eastern Time (US & Canada)
+6.51E+02,negative,0.6146,Flight Booking Problems,0.3125,US Airways,,cookyvonne,,0,@USAirways what's going on with your website &amp; mobile app??? Help!!!,,2/23/2015 8:44,,
+6.52E+02,negative,0.716,Flight Booking Problems,0.3609,US Airways,,MeeestarCoke,,0,@USAirways @AmericanAir ok the app doesn't seem to be working. just use the mobile site... http://t.co/4kLfywwMq1,,2/23/2015 7:37,BK,
+6.53E+02,neutral,0.7006,,0,US Airways,,LaurenCarrot,,0,"@USAirways I'm referring to email like this.  Just tell people when they GET the upgrade. Otherwise, we know already. http://t.co/N8UvCLMADA","[33.6424884, -84.4325976]",2/23/2015 5:20,Your Dreams,
+6.54E+02,negative,0.7009,Customer Service Issue,0.7009,US Airways,,TravelingProf,,0,@USAirways How many agents do you have working to handle the thousands of calls?,,2/23/2015 1:00,"Great Barrington, MA",Eastern Time (US & Canada)
+6.55E+02,negative,0.6653,Cancelled Flight,0.3451,US Airways,,dave_cavan,,0,@USAirways that you would let us just switch to a different set of flights so we could spend time with the family after he passes away...,"[43.19830037, -70.87348793]",2/22/2015 14:23,"Livonia, MI",
+6.56E+02,neutral,0.6402,,0,US Airways,,helmsdanielle10,,0,@USAirways Look into better service.,,2/22/2015 10:36,,
+6.57E+02,neutral,0.6677,,0,US Airways,,maylarosa15,,0,@USAirways My hubby has a 5hr layover in DFW fm the cxl'd flt. Pls help get him home sooner if you can! Any room on S/by 2 BWI or PHL today?,,2/22/2015 9:18,"Baltimore, MD",
+6.58E+02,positive,0.7149,,0,US Airways,,RobinCBNNews,,0,"@USAirways please thank Mellie at CAE, Tammy in baggage claim at CLT 4 #excellent customer service 2day, BUT I have a complaint.",,2/22/2015 7:56,,
+6.59E+02,neutral,0.7093,,0,US Airways,,grpriolo,,0,@USAirways 8am flight to mco canld &amp; resch 1:30.If we opt for 8 am depart tom will us air allow cng return day from sat to sun w/o penalty?,,2/22/2015 5:41,,
+6.60E+02,negative,0.6331,Cancelled Flight,0.3465,US Airways,,dailylaurel,,0,@USAirways no more hotel voucher? Everyone had to get one but not me...what do I do? Arrived from Amsterdam #SnowStorm,,2/21/2015 20:25,Bruxelle-Paris-Marseille-(BPM),Athens
+6.61E+02,neutral,0.3631,,0,US Airways,,DGHomeChef,,0,@USAirways message me if you want to issue a refund so someone else can use my seats tomorrow AM #flightCancelled Flighted #custservicehasnonumber,,2/21/2015 16:10,New York,Eastern Time (US & Canada)
+6.62E+02,negative,0.696,Cancelled Flight,0.696,US Airways,,ERHinman,,0,"@USAirways if my flight's been Cancelled Flightled, and I can't reach anyone over the phone or ticketing agents, safe to assume I wasn't rebooked?",,2/21/2015 11:31,"Washington, DC",Eastern Time (US & Canada)
+6.63E+02,neutral,0.3664,,0,US Airways,,SweetingR,,0,"@USAirways ah, and I was only given one shuttle voucher, so if I do ever get back to the airport you'll be getting the bill",,2/20/2015 20:54,"Asheville, NC",Eastern Time (US & Canada)
+6.64E+02,neutral,0.3616,,0,US Airways,,lesliegudel,,0,@USAirways Nice try.  Doesn't apply to Philly.,,2/20/2015 9:33,"Berwyn, PA",Quito
+6.65E+02,neutral,0.6415,,0,US Airways,,jmspool,,0,@USAirways Thank you. But I don’t understand. What will you do with my feedback?,,2/20/2015 8:03,"42.635976,-71.164046",Eastern Time (US & Canada)
+6.66E+02,neutral,0.6401,,,US Airways,,jrfigo,,0,@USAirways I am following you now,,2/19/2015 21:32,,
+6.67E+02,negative,0.6315,Late Flight,0.3281,US Airways,,Allisonjones704,,0,@USAirways that's the 1st sorry I received from your company. The least you could do is fly us home early at no extra charge.,,2/19/2015 19:54,,
+6.68E+02,neutral,0.3451,,0,US Airways,,RuelBass,,0,@USAirways we got our bags today. Thanks!,,2/19/2015 15:57,"ÜT: 41.233943,-74.3966664",Eastern Time (US & Canada)
+6.69E+02,positive,0.3733,,0,US Airways,,nickpasculli,,0,@USAirways lol me too,,2/19/2015 11:56,"Monterey County, CA",Arizona
+6.70E+02,positive,0.3796,,0,US Airways,,J_0_Y,,0,@USAirways I just think it's weird to have mileage as 666,"[42.95119138, -87.90117857]",2/19/2015 11:35,"Washington, DC",
+6.71E+02,neutral,0.6221,,,US Airways,,dweber15,,0,"@USAirways @AmericanAir no, don't leave me!!!",,2/19/2015 10:05,,Atlantic Time (Canada)
+6.72E+02,positive,0.3691,,0,US Airways,,twitabuggin,,0,@USAirways - so far so good this week. SAV to CLT boarded BEFORE the departure time (first time in 4 weeks). Perhaps an on time departure?!,,2/19/2015 9:40,,Eastern Time (US & Canada)
+6.73E+02,neutral,0.3655,,0,US Airways,,f0ll0wer99,,0,@USAirways got through on the phone. usair Cancelled Flightled her return flights because she missed a flight on her way out. they took care of it,,2/18/2015 19:50,,Central Time (US & Canada)
+6.74E+02,positive,0.7049,,,US Airways,,davegoldfarb,,0,@USAirways we haven't departed yet so let's not get too high hopes.  But everything has been on schedule so far,,2/18/2015 14:13,"Delray Beach, FL",Eastern Time (US & Canada)
+6.75E+02,neutral,0.6499,,0,US Airways,,dsearls,,0,"@USAirways Thanks. Suggestion: stop the promo messages after a bit and just run music &amp; a msg that says ""call volume is high."" #vrm",,2/18/2015 14:06,"SBA, BOS, JFK, EWR, SFO, LHR",Pacific Time (US & Canada)
+6.76E+02,positive,0.3419,,0,US Airways,,TroyTrudel,,0,@USAirways ok thank you we were told ground delay due to snow.,,2/18/2015 13:52,"ÜT: 42.798909,-71.542817",Central Time (US & Canada)
+6.77E+02,neutral,0.6643,,,US Airways,,Hayleyville,,0,@USAirways Looking forward to some friends and family time in Arizona.,,2/18/2015 13:43,DC,Quito
+6.78E+02,positive,0.63,,,US Airways,,MaxImumZero386,,0,@USAirways thanks!  Can you help remind the agents it's ok?  Ps. Heard rumors of a streaming wifi TV/movie service you might be installing,,2/18/2015 11:44,Planet Earth,
+6.79E+02,neutral,0.6516,,,US Airways,,natedunn,,0,"@USAirways Is it possible to earn Dividend Miles for a passenger that is not me, even if I am purchasing the tickets?",,2/18/2015 10:38,"Phoenix, AZ",Pacific Time (US & Canada)
+6.80E+02,negative,0.6227,Late Flight,0.3168,US Airways,,mpordes,,0,@USAirways tell the flight from clt to srq 5080 to wait!!!!!!,,2/18/2015 5:09,,
+6.81E+02,negative,0.3638,Flight Attendant Complaints,0.3638,US Airways,,RealcornerboyT,,0,@USAirways gate agents are now working with everyone to resolve connecting flight issues which is my concern,,2/18/2015 4:21,Any Martin Luther St.,
+6.82E+02,negative,0.7123,Customer Service Issue,0.3837,US Airways,,cristalyze,,0,@USAirways great but that still does not help me..,,2/18/2015 2:07,"Washington, DC",Eastern Time (US & Canada)
+6.83E+02,negative,0.6449,Cancelled Flight,0.3285,US Airways,,jdpletnick,,1,@USAirways I just think if I am staying w your airline &amp; rescheduling a flight I shouldn't absorb a fee that is the cost of 1/2 my flight,,2/17/2015 12:57,"Newtown, Pa",Quito
+6.84E+02,positive,0.3678,,0,US Airways,,DAngel082,,0,"@USAirways after missing my flight and reFlight Booking Problems 2x, I just walked onto another flight and my phone was still on the seat!!",,2/17/2015 12:20,New York,
+6.85E+02,negative,0.361,Customer Service Issue,0.361,American,,mpresdenver,,0,@AmericanAir can u help rebook passenger via Twitter/DM.  Been on hold for 1.5 hours. Thanks!,,2/24/2015 9:35,"Denver, Colorado",Mountain Time (US & Canada)
+6.86E+02,negative,0.9553,Flight Attendant Complaints,0.9553,American,negative,stevereasnors,Flight Attendant Complaints,0,@AmericanAir should reconsider #usairways acquisition. Flight 1843 AA gold flyers insulted by attendant for hanging jacket!,,2/22/2015 12:55,Los Angeles,Pacific Time (US & Canada)
+6.87E+02,positive,0.9236,,0,American,positive,douglaskgordon,,0,@AmericanAir Thank you.....you do the same!!,,2/22/2015 12:50,"Caribbean, New York and Miami.",Indiana (East)
+6.88E+02,negative,0.924,Late Flight,0.4904,American,negative,beaubertke,Late Flight,0,"@AmericanAir Okay, I think 1565 has waited long enough for a gate at DFW...",,2/18/2015 20:25,Texas,Central Time (US & Canada)
+6.89E+02,negative,0.7991,Can't Tell,0.6423,Delta,negative,ConnieBowman4,"Customer Service Issue
+Can't Tell",0,@DeltaAssist what I have to say is more than 140 characters! Plus you don't follow me,,2/20/2015 5:02,,
+6.90E+02,positive,0.6708,,0,American,,IDontRentPigs,,0,"@AmericanAir @dfwairport Guys, let it go. http://t.co/vOxcghciJi",,2/24/2015 8:51,"Denton County, Texas",Central Time (US & Canada)
+6.91E+02,positive,0.6188,,,American,,JeffTitelius,,1,Happy #TT to my friends @AmericanAir . Hope the weather isn't causing you too many headaches.,,2/24/2015 8:16,"Mount Dora, Florida",Quito
+6.92E+02,negative,0.7276,Can't Tell,0.7276,American,,fantacychristin,,0,@AmericanAir I need refund.,,2/24/2015 8:00,,Eastern Time (US & Canada)
+6.93E+02,neutral,0.3544,,0,American,,jacquelinewins6,,0,"@AmericanAir 
+Thank you for responding...My laptop is in my bag and I need it for work. I am worried. The file code is UTEVGW.",,2/24/2015 7:34,,
+6.94E+02,negative,0.7175,Late Flight,0.3633,American,,ShpprMktMichael,,0,@AmericanAir what's the status of flight 3494 XNA to DFW. I'm getting different reports?,,2/24/2015 6:59,USA,
+6.95E+02,positive,0.6864,,,American,,dwjudson,,0,@AmericanAir Thank you for being so responsive on Twitter. Truly impressive.,,2/24/2015 5:53,"Toronto, Ontario, Canada",Eastern Time (US & Canada)
+6.96E+02,neutral,0.6298,,0,American,,VanekSue,,0,"@AmericanAir  They said it works 80-90% of the time, DFW security entrance C26. Before/after pre-check, whereas I paid for the service.",,2/24/2015 4:53,,
+6.97E+02,negative,0.6324,Can't Tell,0.6324,American,,GREATNESSEOA,,0,@AmericanAir @USAirways So who do I need to talk to to ensure the statement is sent to my bank so I can get the credit for the charges?,,2/24/2015 3:31,McKinney TX,
+6.98E+02,neutral,0.3834,,0,American,,JayFranceschi,,0,Lol great answer.. “@AmericanAir: @JayFranceschi Our agents are checking in passengers as quickly as possible. We appreciate your patience.”,,2/24/2015 3:08,,Quito
+6.99E+02,positive,0.6162,,0,American,,sannimaarit,,0,"@AmericanAir Thanks, both airlines said that it is located at AA Detroit. Also was informed that it flew with AA, which shouldn't matter.",,2/24/2015 2:25,Finn between Detroit & Toledo,Helsinki
+7.00E+02,neutral,0.3567,,0,American,,SweetKirabella,,0,"@AmericanAir oh, yeah. I guess those are two different things. 3 am does weird things to my brain. Thanks again! xox",,2/24/2015 0:05,The 2nd star to the right ,Pacific Time (US & Canada)
+7.01E+02,negative,0.7148,Customer Service Issue,0.3889,American,,uneek1908,,0,@AmericanAir I understand that but I'm hoping I can rectify this in advance. I would call but I am in AUH. I just need my one checked bag.,,2/23/2015 22:57,The Great State of TEXAS,Central Time (US & Canada)
+7.02E+02,negative,0.6758,Flight Booking Problems,0.6758,American,,meg4miles,,0,@AmericanAir hey! I have a name issue on my reservation can you help?,,2/23/2015 22:39,N to da Y to da C ,
+7.03E+02,negative,0.6258,longlines,0.3217,American,,TweetyDave,,0,"@AmericanAir If SNA curfew causes diversion, do you provide transportation from LAX? On AA1237 now, pilot not sure if we have time.",,2/23/2015 22:12,,Central Time (US & Canada)
+7.04E+02,negative,0.6945,Can't Tell,0.363,American,,Lauren_Nann,,0,@AmericanAir #2298. Everyone else  was outstanding.,"[40.77382001, -73.87315003]",2/23/2015 21:11,"Harrison, New York",Eastern Time (US & Canada)
+7.05E+02,negative,0.6978,Cancelled Flight,0.3674,American,,GarrettBogar,,0,"@AmericanAir $600 Late Flightr, 2 complete itinerary changes, and lost work and time, but yeah ""I"" got it rebooked",,2/23/2015 21:06,,
+7.06E+02,positive,0.6605,,,American,,tifotter,,0,@AmericanAir No apology necessary. It was wind and I was on Delta. XOXO,,2/23/2015 20:57,"Sugarhood, SLC",Mountain Time (US & Canada)
+7.07E+02,neutral,0.71,,0,American,,lczand,,0,"@AmericanAir daughter record loc. is KYBILC. She is traveling with 3 y.o. and needs to be in adjacent seats, not across isle.",,2/23/2015 17:44,SE USA,Central Time (US & Canada)
+7.08E+02,negative,0.6422,Customer Service Issue,0.6422,American,,judyatpan,,0,"@AmericanAir Thx, someone picked up after 45 minutes",,2/23/2015 15:43,"Oakland, CA",Pacific Time (US & Canada)
+7.09E+02,negative,0.7135,Bad Flight,0.7135,American,,PhilipStafford,,0,@AmericanAir overbooked business class from Mia to uvf - after being in the correct seat we were moved back to economy on our special day,,2/23/2015 15:38,"Tampa, Florida",
+7.10E+02,neutral,0.6873,,0,American,,hoagy10,,0,@AmericanAir Flight Get Me Out Of Chicago.,,2/23/2015 14:25,,Central Time (US & Canada)
+7.11E+02,neutral,0.7145,,0,American,,softwaredoug,,0,@AmericanAir I wrote down the evoucher number. I got rid of the voucher when I purchased air fair,,2/23/2015 11:03,"Charlottesville, VA",Hawaii
+7.12E+02,negative,0.6961,Flight Booking Problems,0.6961,American,,Baynhambristol,,0,@AmericanAir 2 months and still no exec platinum member cards. What gives?,,2/23/2015 10:00,New York,Hawaii
+7.13E+02,negative,0.6938,Customer Service Issue,0.6938,American,,urduckcommander,,0,@AmericanAir you have said the same thing to me over and over again but phrased differently. How about some actual help?,,2/23/2015 9:41,,Quito
+7.14E+02,negative,0.7063,Customer Service Issue,0.3666,American,,takingthekids,,0,@AmericanAir don't see response!,,2/23/2015 8:28,New England ,Quito
+7.15E+02,neutral,0.6958,,0,American,,elisakathleen,,0,@AmericanAir the saga continues..,,2/23/2015 8:11,"Boston, MA",
+7.16E+02,negative,0.6275,Cancelled Flight,0.3166,American,,nekMom,,0,"@AmericanAir  when do you anticipate decisions for Cancelled Flightlations at DFW tomorrow morning? Need to rearrange hotel reservations, etc. ASAP!",,2/23/2015 7:33,,
+7.17E+02,negative,0.655,Flight Booking Problems,0.3352,American,,Active_Aly,,0,"@AmericanAir @Active_Aly thx. We have already been on the iberia website, and seat reservation is unavailable. Hopefully we can call them.","[25.8058716, -80.1255332]",2/23/2015 4:48,"London, England",Eastern Time (US & Canada)
+7.18E+02,neutral,0.6977,,0,American,,ElgortA,,0,@AmericanAir I was on a flight for tomorrow and my reservation is coming up.  Help me!,,2/22/2015 21:44,,
+7.19E+02,negative,0.6169,Cancelled Flight,0.6169,American,,taraaleung,,0,@AmericanAir My flight tomorrow from SLC to DFW AA304 Cancelled Flighted. Can you help me get there?,,2/22/2015 19:41,"Salt Lake City, USA",
+7.20E+02,negative,0.6649,Lost Luggage,0.6649,American,,KerithBurke,,0,"@AmericanAir I understand. I'm feeling cranky. I called AA's bag tracker number and heard ""your bag has not been located."" 😩",,2/22/2015 19:01,SNY in NYC.,Eastern Time (US & Canada)
+7.21E+02,negative,0.6111,Can't Tell,0.3259,American,,jkhoey,,0,@AmericanAir ok. Pilots are looking for agents  - they jumped out / FLT 5350 #DFW / this is crazy,,2/22/2015 18:53,"New York, NY",Eastern Time (US & Canada)
+7.22E+02,positive,0.6432,,0,American,,la_anne,,0,@AmericanAir I tried that. They won't book us with another airline. I wish I had flown with you! We are now stuck in FL til Weds.,,2/22/2015 18:19,Global,
+7.23E+02,neutral,0.354,,0,American,,EAFiedler,,0,@AmericanAir I just DMed you,,2/22/2015 17:54,Philly,Eastern Time (US & Canada)
+7.24E+02,negative,0.6282,Customer Service Issue,0.3292,American,,otisday,,0,"@AmericanAir @manuel_c ""here for you"" as in, yeah, we'll tweet platitudes at you so you'll think our Twitter bot cares? Or....",,2/22/2015 17:14,Pekin,Eastern Time (US & Canada)
+7.25E+02,negative,0.7042,Customer Service Issue,0.7042,American,,SentieriMelinda,,0,@AmericanAir  please call us back to rebook!!! 7403607771. We need to get back to Columbus!!!!!! Please help,,2/22/2015 14:11,,
+7.26E+02,negative,0.6384,Customer Service Issue,0.6384,American,,jkordyback,,0,@AmericanAir I’ll play it by ear. I know that you are doing your best. Buy some chewey oatmeal cookies for your customer care folks.,,2/22/2015 12:31,"North Saanich, BC",Pacific Time (US & Canada)
+7.27E+02,negative,0.7094,Customer Service Issue,0.7094,American,,guernicaguy,,0,@AmericanAir Hey AA - can you help with an itinerary for a plat custy?  Stuck in PVR and phones aren't working,,2/22/2015 12:25,,
+7.28E+02,positive,0.3487,,0,American,,KristenReenders,,0,@AmericanAir thank you we got on a different flight to Chicago.,,2/22/2015 12:01,,
